@@ -132,7 +132,7 @@ output.
 
 \begin{document}
 
-\topline{Math 087 - Spring 2025}{Assignment 0}{\myname}
+\topline{Math 087 - Spring 2026}{Assignment 0}{\myname}
 
 \vspace{2cm}
 

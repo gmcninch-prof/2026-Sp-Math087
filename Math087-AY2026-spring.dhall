@@ -1,4 +1,4 @@
--- Time-stamp: <2026-01-09 Fri 12:05 EST - george@valhalla>
+-- Time-stamp: <2026-01-10 Sat 11:05 EST - george@valhalla>
 let Dow = < Mon | Tue | Wed | Thu | Fri | Sat | Sun >
 
 let concat = https://prelude.dhall-lang.org/List/concat
@@ -92,22 +92,6 @@ let FinalProject =
         , assignments = [ "Final project proposals due", "Final Project Due" ]
         }
 
-let Quizzes =
-      CourseComponent.Exam
-        { sched =
-          [ ScheduleDetails.Date
-              { date = "2025-02-26"
-              , time = { start = "10:30", end = "11:45" }
-              , location = "JCC 280"
-              }
-          , ScheduleDetails.Date
-              { date = "2025-04-09"
-              , time = { start = "10:30", end = "11:45" }
-              , location = "JCC 280"
-              }
-          ]
-        , description = "in-class quizzes (~20-30 minute)"
-        }
 
 in  [ { courseAY = "AY2025-2026"
       , courseSem = "spring"
@@ -119,7 +103,7 @@ in  [ { courseAY = "AY2025-2026"
       , courseDescription = "Mathematical Modelling"
       , target =
         { dir = "course-pages", base = "Math087", org = "/home/george/org/" }
-      , courseComponents = [ lectures, homework, FinalProject, Quizzes ]
+      , courseComponents = [ lectures, homework, FinalProject ]
       , courseTasks = tasks : List Task
       }
     ]

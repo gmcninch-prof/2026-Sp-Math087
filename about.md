@@ -2,7 +2,7 @@
 title: Math087 - Mathematical Modeling
 ---
 
-This is the web site of the Spring 2025 course Math087
+This is the web site of the Spring 2026 course Math087
 in the [Dept of
 Mathematics] at [Tufts University].
 

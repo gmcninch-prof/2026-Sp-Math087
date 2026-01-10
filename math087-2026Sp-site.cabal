@@ -23,7 +23,7 @@ source-repository head
   type: git
   location: https://github.com/gmcninch-tufts/2026-Sp-Math087
 
-executable math087-2025Sp-site
+executable math087-2026Sp-site
   main-is: site.hs
   other-modules:
       Paths_math087_2026Sp_site

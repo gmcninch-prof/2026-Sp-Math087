@@ -25,7 +25,7 @@ dependencies:
 - pandoc
 
 executables:
-  math087-2025Sp-site:
+  math087-2026Sp-site:
     main:                site.hs
     ghc-options:
     - -threaded

@@ -63,10 +63,10 @@ Here are details on these course components:
 
   Here are the dates:
   
-  - midterm report 1 --2025-02-14 
-  - midterm report 2 -- 2025-03-14 
-  - final report proposal due -- 2025-04-12
-  - final report due -- 2025-05-02
+  - midterm report 1 -- 
+  - midterm report 2 -- 
+  - final report proposal due -- 
+  - final report due -- 
 
 Please refer to the course website where you will find more detailed
 description of expectations concerning these course
@@ -80,7 +80,6 @@ Table: **Grading**
 | grade component        | percentage |
 |:-----------------------|:-----------|
 | problem sets (average) | 40%        |
-| quizzes (average)      | 15%        |
 | midterm report 1       | 15%        |
 | midterm report 2       | 15%        |
 | final report           | 15%        |
