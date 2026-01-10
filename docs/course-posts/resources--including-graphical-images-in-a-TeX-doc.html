@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Math87-Tufts University - Resources: Including graphical images in a LaTeX document
+</title>
+	<script>
+	  window.MathJax = {
+	    options: {
+	      ignoreHtmlClass: 'tex2jax_ignore',
+	      processHtmlClass: 'tex2jax_process'
+	    },
+	    tex: {
+	      autoload: {
+		color: [],
+		colorv2: ['color']
+	      },
+	      packages: {'[+]': ['noerrors']}
+	    },
+	    loader: {
+	      load: ['input/asciimath', '[tex]/noerrors']
+	    }
+	  };
+	</script>
+	<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" id="MathJax-script"></script>
+        <link rel="stylesheet" href="../css/default.css" />
+	<link rel="stylesheet" href="../css/haddock.css" />
+	
+	<link href="https://fonts.googleapis.com/css?family=Lato:400,700" type="text/css" rel="stylesheet" media="screen" />
+	<link href="https://fonts.googleapis.com/css?family=Arimo:400,700" type="text/css" rel="stylesheet" media="screen" />
+	<link href="https://fonts.googleapis.com/css?family=Roboto:400,700" type="text/css" rel="stylesheet" media="screen" />
+	<link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700" type="text/css" rel="stylesheet" media="screen" />
+	<link href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" type="text/css" rel="stylesheet" media="screen" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous" />			
+    </head>
+    <body>
+        <header>
+          <div class="logo">
+            <a href="../">
+	      Math87 - Spring 2026 - Tufts Univ</a>
+          </div>
+          <nav>
+            <a href="../about.html">About</a>
+	    <a href="../course-pages/Math087--course-info.html">Info</a>	    
+            <a href="../archive.html">Archive</a>
+          </nav>
+        </header>
+
+        <main role="main">
+            <h1>Resources: Including graphical images in a LaTeX document
+</h1>
+            <article>
+    <section class="header">
+        Posted on 2026-01-01
+        
+            by George McNinch
+        
+    </section>
+    <section>
+        <p>I’m including this discussion because it may help you in writing your
+final project report. I suspect many of you already know this, but
+since the document exists, it seems worthwhile to post it.</p>
+<p>If you produce your report using <code>LaTeX</code> (recommended!) the following example shows how
+to include graphical images:</p>
+<ul>
+<li><a href="../course-assets/latex-examples/graphic-example.tex">latex example with graphics</a><br />
+<a href="../course-assets/latex-examples/graph-example.png">graphic</a><br />
+<a href="../course-assets/latex-examples/graphic-example.pdf">pdf</a></li>
+</ul>
+<p>The main point here is that you need to use the <code>graphicx</code> package</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode latex"><code class="sourceCode latex"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="bu">\usepackage</span>{<span class="ex">graphicx, color</span>}</span></code></pre></div>
+<p>and that the command</p>
+<div class="sourceCode" id="cb2"><pre class="sourceCode latex"><code class="sourceCode latex"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>  <span class="bu">\includegraphics</span>[scale=.5]{<span class="ex">graph-example</span>}</span></code></pre></div>
+<p>displays the graphic found in the file named <code>graph-example.png</code> (or <code>graph-example.jpg</code> or…)</p>
+<p>The <code>[pdf]</code> link above shows the output. To use this yourself, you’ll need
+to save the <code>latex</code> file as well as the <code>png</code> graphic file. You can
+read a bit more
+<a href="https://www.overleaf.com/learn/latex/Inserting_Images">here</a> about
+how to use this in overleaf. You’ll need to <em>upload</em> the relevant file
+- in the above example, <code>graph-example.png</code> - to Overleaf in order to
+use it there.</p>
+    </section>
+</article>
+
+        </main>
+
+        <footer>
+	  <nav>
+	    <a href="http://www.tufts.edu">
+	      <i class="fas fa-chalkboard"></i>
+	      Tufts
+	    </a>	    
+	    <a href="http://math.tufts.edu">
+	      <i class="fas fa-chalkboard-teacher"></i>
+	      Tufts Math
+	    </a>
+	    <a href="https://gmcninch.math.tufts.edu">
+	      <i class="fas fa-coffee"></i>
+	      G McNinch
+	    </a>
+	    <a href="https://github.com/gmcninch-math">
+	      <i class="fab fa-github"></i>
+	      GitHub
+	    </a>	    
+	  </nav>
+        </footer>
+    </body>
+</html>

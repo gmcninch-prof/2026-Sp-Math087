@@ -1,0 +1,280 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Math87-Tufts University - Resources: python & jupyter
+</title>
+	<script>
+	  window.MathJax = {
+	    options: {
+	      ignoreHtmlClass: 'tex2jax_ignore',
+	      processHtmlClass: 'tex2jax_process'
+	    },
+	    tex: {
+	      autoload: {
+		color: [],
+		colorv2: ['color']
+	      },
+	      packages: {'[+]': ['noerrors']}
+	    },
+	    loader: {
+	      load: ['input/asciimath', '[tex]/noerrors']
+	    }
+	  };
+	</script>
+	<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" id="MathJax-script"></script>
+        <link rel="stylesheet" href="../css/default.css" />
+	<link rel="stylesheet" href="../css/haddock.css" />
+	
+	<link href="https://fonts.googleapis.com/css?family=Lato:400,700" type="text/css" rel="stylesheet" media="screen" />
+	<link href="https://fonts.googleapis.com/css?family=Arimo:400,700" type="text/css" rel="stylesheet" media="screen" />
+	<link href="https://fonts.googleapis.com/css?family=Roboto:400,700" type="text/css" rel="stylesheet" media="screen" />
+	<link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700" type="text/css" rel="stylesheet" media="screen" />
+	<link href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" type="text/css" rel="stylesheet" media="screen" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous" />			
+    </head>
+    <body>
+        <header>
+          <div class="logo">
+            <a href="../">
+	      Math87 - Spring 2026 - Tufts Univ</a>
+          </div>
+          <nav>
+            <a href="../about.html">About</a>
+	    <a href="../course-pages/Math087--course-info.html">Info</a>	    
+            <a href="../archive.html">Archive</a>
+          </nav>
+        </header>
+
+        <main role="main">
+            <h1>Resources: python & jupyter
+</h1>
+            <article>
+    <section class="header">
+        Posted on 2026-01-01
+        
+            by George McNinch
+        
+    </section>
+    <section>
+        <h1 id="overview">Overview</h1>
+<p>Our course will use the <code>python</code> programming language to perform
+some machine computations needed to carry out mathematical modeling
+tasks.</p>
+<p>And parts of the notes of the course lectures will be made available
+as <code>jupyter notebooks</code>.</p>
+<p>There are a few ways that you should learn to interact with <code>python</code>
+and <code>jupyter</code> for our class:</p>
+<ol>
+<li>via <a href="https://colab.research.google.com/">Google’s colab</a></li>
+<li>by executing <code>python</code> code in a <code>python</code> interpreter on your computer</li>
+<li>(optionally) using <a href="http://www.jupyter.org">jupyter notebooks</a> on your computer.</li>
+</ol>
+<p>Here is a bit of what you need to know to enable these interactions:</p>
+<ul>
+<li><a href="#notebooks">Overview of <code>jupyter</code> notebooks</a></li>
+<li><a href="#colab">Interacting with <code>jupyter</code> notebooks via colab</a></li>
+<li><a href="#venv">installing the tools on your computer</a></li>
+<li><a href="#jupyter">using the <code>jupyter notebook</code> viewer on your computer</a></li>
+</ul>
+<p>Before diving into the details, let me try to answer a few question
+that you may have:</p>
+<dl>
+<dt><strong>Q</strong> - do I need to install <code>juptyer</code> on my computer, or I just use <code>colab</code>?</dt>
+<dd>
+<p><strong>A</strong> - It is probably possible to just use <code>colab</code>. <code>colab</code>
+provides a reasonable environment for reading the course material,
+though for code execution it may (?) be a tad slow.</p>
+</dd>
+</dl>
+<p><strong>But</strong>: using <code>python</code> exclusively through <code>colab</code> is a somewhat
+imperfect environment for producing code, and at least in the long
+run you’ll be better served by learning to work with these tools on
+your own computer.</p>
+<h1 id="notebooks">An overview of <code>jupyter</code> notebooks</h1>
+<p><a href="https://jupyter.org/"><code>Jupyter</code> notebooks</a> provide a way to package written material – with
+possible mathematical markup – together with an interactive
+environment for executing computer code.</p>
+<p>The material for this course will mostly be presented in the form of
+these <code>notebooks</code>. You can recognize <code>notebook</code> files by their
+filename extension – their file name has the form <code>*.ipynb</code>.</p>
+<p>On the course site, notebooks will be posted with <em>two links</em> – one
+to <code>colab</code>, and one to an <code>*.ipynb</code> file.</p>
+<ul>
+<li><p>The simplest way to interact with <code>jupyter notebooks</code> is to use
+<a href="https://colab.research.google.com/">Google’s colab</a>. Clicking one of the links will open the notebook
+<em>in the cloud</em> via the site
+<a href="https://colab.research.google.com/">colab.research.google.com</a>.</p></li>
+<li><p>The other one link permits you to download the <code>notebook</code> file to
+your computer. In order to use this file, you will need to have a
+working installation of <code>python</code> and <code>jupyter</code>. See below for some
+discussion of how to <a href="#venv">set up the required tools</a> and how to
+<a href="#jupyter">use <code>jupyter</code></a>.</p></li>
+</ul>
+<h1 id="colab">Interacting with <code>jupyter</code> notebooks via Google’s CoLab</h1>
+<p>As <a href="#notebooks">mentioned above</a>, the course material will be
+presented in the form of <code>jupyter</code> notebooks, and for each notebook
+there will be a link to a copy of this notebook available via
+<code>colab</code>.</p>
+<p><code>Colab</code> is a web-based free-to-use Jupyter notebook environment that
+runs in <em>the cloud</em> and stores its notebooks on Google Drive. When
+you view a notebook in <code>colab</code> containing code, that code can be
+executed. The code execution occurs <em>in the cloud</em>, which basically
+means <em>on some google computer</em>. Thus, google’s computer has <code>python</code>
+and the relevant libraries installed and available.</p>
+<p>You can choose to interact with the course notebooks on <code>colab</code>, abd
+create your own notebooks there.</p>
+<p>A good starting point to learn how to use colab (and jupyter notebooks
+in general) is the document <a href="https://colab.research.google.com/notebooks/basic_features_overview.ipynb">Overview of Colaboratory
+Features</a>.</p>
+<h1 id="venv">Installing the tools on your computer</h1>
+<p>Here I hope to answer the questions: “What do I need to do to be able
+to view and execute <code>jupyter</code> notebooks on my computer?”</p>
+<p>You first need to have <a href="http://www.python.org"><code>python</code></a> installed. In
+many cases, this is already true.</p>
+<p>We are going to install <code>jupyter</code> and some python libraries in a
+<em>virtual environment</em>; you can read about <a href="https://docs.python.org/3/library/venv.html">virtual environments
+here</a>.</p>
+<p>To begin, create a directory named <code>jupyter</code> somewhere on your
+computer (you can actually call it whatever you like…)</p>
+<p>Open a <code>terminal</code> on your computer, and change to the directory you
+just created. To do so, use a command something like:</p>
+<blockquote>
+<pre><code>george@valhalla:~$ cd jupyter
+george@valhalla:~/jupyter$ </code></pre>
+</blockquote>
+<p>(You should only type the <code>cd jupyter</code> bit. And you may need to type a
+more complicated string if the directory you created is nested below
+your home directory).</p>
+<p>Now create a <code>virtual environment</code> as follows:</p>
+<blockquote>
+<pre><code>$ python -m venv .venv</code></pre>
+</blockquote>
+<p>You may need to instead type</p>
+<blockquote>
+<pre><code>$ python3 -m venv .venv</code></pre>
+</blockquote>
+<p>Among other things, this should create a directory named <code>.venv</code>
+beneath your <code>jupyter</code> directory.</p>
+<p>You now need to <em>activate</em> the virtual environment in your terminal.
+In linux or on a mac, you do this as follows:</p>
+<blockquote>
+<pre><code>$ source .venv/bin/activate</code></pre>
+</blockquote>
+<p>Looking at the docs
+https://docs.python.org/3/library/venv.html
+is appears that in <code>windows</code> you proceed as follows</p>
+<blockquote>
+<pre><code># in cmd.exe
+C:\jupyter\&gt; .venv/Scripts\activate.bat
+
+#or
+# in powershell
+C:\jupyter\&gt; .venv\Scripts\Activate.ps1</code></pre>
+</blockquote>
+<p>After activation, the terminal “prompt” should appear differently. For
+example, you might see something like this:</p>
+<blockquote>
+<pre><code>(.venv) george@valhalla:~/jupyter$ </code></pre>
+</blockquote>
+<p>You can no <em>exit</em> the virtual environment by typing <code>deactivate</code>, like this:</p>
+<blockquote>
+<pre><code>(.venv) george@valhalla:~/jupyter$ deactivate
+george@valhalla:~/jupyter$</code></pre>
+</blockquote>
+<p>Now, with the virtual environment active, you can install the following
+packages using a command called <code>pip</code>:</p>
+<blockquote>
+<pre><code>(.venv) george@valhalla~/jupyter$ pip install jupyter numpy sympy scipy pandas pydot matplotlib</code></pre>
+</blockquote>
+<p><code>pip</code> will install all these packages <em>in your <code>jupyter/.venv</code>
+directory</em>. In this case, packages occupying ~750M of disk space are
+installed and can be removed simply by deleting your <code>jupyter</code>
+directory.</p>
+<h1 id="jupyter">Interacting with <code>jupyter</code> on your computer</h1>
+<p>You can always view and interact with <code>jupyter notebooks</code> on
+<code>colab</code>. But if you carried out the above instructions for installing
+<code>conda</code>, you can now use <code>jupyter</code> notebooks on your own computer.</p>
+<p>Start <code>jupyter</code> from the command-line. I actually find that I prefer
+the <code>jupyter lab</code> interface to the the plain <code>jupyter notebook</code>
+interface (and honestly I’m not sure I understand why there are two
+different interfaces) but you should experiment for yourself.</p>
+<p>So, with you virtual envirnoment activated type:</p>
+<blockquote>
+<pre><code>(.venv) george@valhalla:~$ jupyter-lab</code></pre>
+</blockquote>
+<p>There will be some output to the terminal that you can mostly
+ignore. The significant effect of running this program is that <em>a page
+should open in your web browser</em>.</p>
+<p>The page that opens will have a <code>URL</code> that looks something like:</p>
+<blockquote>
+<pre><code>http://localhost:8888/lab</code></pre>
+</blockquote>
+<p>This <code>URL</code> tells you that there is now a <code>server</code> running on your
+local machine, and that your web browser is communicating with that
+server.</p>
+<p>In the web page at this location, you should see in particular an
+interface where you can interact with <code>jupyter notebooks</code>. You can
+create a new notebook from the <code>File</code> menu: <code>New -&gt; Notebook</code>. If you
+are asked to <code>Select Kernel</code>, you should select <code>Python 3</code>.</p>
+<p>You are now editing a file name <code>Untitled.ipynb</code>.</p>
+<p>If you save a <code>jupyter notebook</code> (i.e. a <code>ipynb</code> file) in your directory tree, you can open it using
+the <code>File</code> menu: <code>Open from path</code></p>
+<p>You can end the <code>jupyter</code> notebook session by typing <code>C-c</code> (twice)
+in the terminal where you started the command, or by menu-driven
+commands in the web-interface.</p>
+<h1 id="some-learning-resources-for-python-and-scientific-computing">Some learning resources for python and scientific computing</h1>
+<p>(Honestly, I just borrowed this list from a previous instructor, but
+the links look useful).</p>
+<ul>
+<li><a href="https://www.learnpython.org/">DataCamp’s interactive Intro to Python tutorial</a></li>
+<li><a href="https://www.py4e.com/lessons">Python for Everybody (University of Michigan MOOC)</a></li>
+<li><a href="http://cs231n.github.io/python-numpy-tutorial/">A short Python and NumPy tutorial (Stanford CS231)</a></li>
+<li><a href="https://docs.python.org/3/tutorial/index.html">Official Python tutorial</a></li>
+<li>Numpy
+<ul>
+<li><a href="https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html">Introduction to
+NumPy</a></li>
+<li><a href="https://docs.scipy.org/doc/numpy/reference/">NumPy reference
+guide</a> (chapter 2 of
+VanderPlas’ <em>Python Data Science Handbook</em>)</li>
+</ul></li>
+<li>Matplotlib
+<ul>
+<li><a href="https://matplotlib.org/tutorials/introductory/pyplot.html">Official Pyplot tutorial
+(short)</a></li>
+<li><a href="https://jakevdp.github.io/PythonDataScienceHandbook/04.00-introduction-to-matplotlib.html">Visualization with Matplotlib (chapter 4 of VanderPlas’ <em>Python
+Data Science
+Handbook</em>)</a></li>
+<li><a href="https://matplotlib.org/gallery/index.html">Gallery of Matplotlib
+examples</a></li>
+</ul></li>
+</ul>
+    </section>
+</article>
+
+        </main>
+
+        <footer>
+	  <nav>
+	    <a href="http://www.tufts.edu">
+	      <i class="fas fa-chalkboard"></i>
+	      Tufts
+	    </a>	    
+	    <a href="http://math.tufts.edu">
+	      <i class="fas fa-chalkboard-teacher"></i>
+	      Tufts Math
+	    </a>
+	    <a href="https://gmcninch.math.tufts.edu">
+	      <i class="fas fa-coffee"></i>
+	      G McNinch
+	    </a>
+	    <a href="https://github.com/gmcninch-math">
+	      <i class="fab fa-github"></i>
+	      GitHub
+	    </a>	    
+	  </nav>
+        </footer>
+    </body>
+</html>
