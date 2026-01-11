@@ -36,30 +36,15 @@ Here are details on these course components:
   planned collection
   schedule](/course-pages/Math087--Assignments--AY2023-2024spring.html).
 
-  A total of 10 problem sets will be collected.
-
   The problems will be posted on the course website, and your
   solutions will be submitted to [Gradescope](https://www.gradescope.com/) -- see [these remarks
   concerning use of
   gradescope](/course-posts/resources--gradescope.html).
 
-- 2 *quizzes*
-
-  There will be two in-class quizzes which are intended to assess
-  your comprehension of the material. 
-  
-  These will take place on Wednesday Feb 26 & Wednesday April 2.
-  
-  I'll provide details of what will be assessed.
-
 - 2 *midterm reports* and 1 *final report*
 
   Note that you will submit a *proposal* for the final report prior to
-  work.  ~~Moreover, there will be a *video component* to your final
-  project. After the final projects are collected, you must watch (at
-  least) two videos created by classmates and write a brief summary of
-  them. These summaries will be due during the final exam period (on
-  the schedule day of the final exam for the class).~~
+  work. 
 
   Here are the dates:
   
