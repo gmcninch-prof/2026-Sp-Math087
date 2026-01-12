@@ -1,4 +1,4 @@
--- Time-stamp: <2026-01-12 Mon 12:01 EST - george@valhalla>
+-- Time-stamp: <2026-01-12 Mon 12:11 EST - george@valhalla>
 let Dow = < Mon | Tue | Wed | Thu | Fri | Sat | Sun >
 
 let concat = https://prelude.dhall-lang.org/List/concat
@@ -44,7 +44,7 @@ let tasks =
         [ Task.Meeting
             { description = "Office hours"
             , dow = Dow.Wed
-            , time = { start = "13:30", end = "14:30" }
+            , time = { start = "15:00", end = "16:00" }
             , location = "JCC 559"
             }
         , Task.Meeting
