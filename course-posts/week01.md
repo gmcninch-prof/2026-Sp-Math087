@@ -1,7 +1,7 @@
 ---
 author: George McNinch
 title: Week 01 material
-date: 2025-01-14
+date: 2026-01-14
 ---
 
 During the first two weeks of class, we meet only twice. So I'll
@@ -18,5 +18,6 @@ collect the first homework on Fri Jan 23.
     [colab](https://colab.research.google.com/github/gmcninch-prof/2026-Sp-Math087/blob/main/course-content/week01-01--optimization.ipynb)
 
 
-- Assignment (pending, for now)
+- Assignment  
+  [PS01](/course-assignments/ps01.pdf)
     

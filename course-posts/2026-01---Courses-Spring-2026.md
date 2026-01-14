@@ -1,6 +1,6 @@
 ---
 title   : Course overview Math087 Math Modeling Spring 2026
-date    : 2026-01-01
+date    : 2026-01-14
 ---
   
   
