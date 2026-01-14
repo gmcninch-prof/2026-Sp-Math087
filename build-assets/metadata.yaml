@@ -1,8 +1,8 @@
 author: George McNinch
 title: Math 87 - Mathematical Modeling - Spring 2024
 bibliography:
-- /home/george/Prof-Math/assets/math-bibliography.bib
-- /home/george/Prof-Math/assets/teaching.bib
+- /home/george/prof-math/assets/math-bibliography.bib
+- /home/george/prof-math/assets/teaching.bib
 csl: build-assets/chicago-author-date.csl
 xnos-cleveref: True
 header-includes: |

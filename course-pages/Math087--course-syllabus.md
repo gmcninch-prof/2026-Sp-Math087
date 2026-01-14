@@ -64,10 +64,10 @@ Table: **Grading**
 
 | grade component        | percentage |
 |:-----------------------|:-----------|
-| problem sets (average) | 40%        |
-| midterm report 1       | 15%        |
-| midterm report 2       | 15%        |
-| final report           | 15%        |
+| problem sets (average) | 35%        |
+| midterm report 1       | 20%        |
+| midterm report 2       | 20%        |
+| final report           | 25%        |
 
 -------
 
