@@ -13,7 +13,7 @@ collect the first homework on Fri Jan 23.
     [notebook](/course-content/week01-00--demo-notebook.ipynb)
     [colab](https://colab.research.google.com/github/gmcninch-prof/2026-Sp-Math087/blob/main/course-content/week01-00--demo-notebook.ipynb)
 
-  - optimization ([2025-01-15]):
+  - optimization ([2025-01-16]):
     [notebook](/course-content/week01-01--optimization.ipynb)
     [colab](https://colab.research.google.com/github/gmcninch-prof/2026-Sp-Math087/blob/main/course-content/week01-01--optimization.ipynb)
 
