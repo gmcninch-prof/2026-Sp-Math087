@@ -96,111 +96,88 @@ Features](https://colab.research.google.com/notebooks/basic_features_overview.ip
 Here I hope to answer the questions: "What do I need to do to be able
 to view and execute `jupyter` notebooks on my computer?"
 
-You first need to have [`python`](http://www.python.org) installed. In
-many cases, this is already true.
+(The instructions I'm about to give differ somewhat from instructions
+I gave e.g. in Spring 2025).
 
-We are going to install `jupyter` and some python libraries in a
-*virtual environment*; you can read about [virtual environments
-here](https://docs.python.org/3/library/venv.html).
+We are going to use a tool called [`uv`](https://docs.astral.sh/uv/)
+for managing `python` and it's libraries and packages.
 
-To begin, create a directory named `jupyter` somewhere on your
-computer (you can actually call it whatever you like...)
+To begin with, install `uv` following [the instructions
+here](https://docs.astral.sh/uv/getting-started/installation/).
 
-Open a `terminal` on your computer, and change to the directory you
-just created. To do so, use a command something like:
+Open a `terminal` on your computer. We are going to use `uv` to create a directory
+on your file system, so if you'd like that directory to be placed somewhere in particular,
+you might changed directories in your terminal:
 
 > ```
-> george@valhalla:~$ cd jupyter
-> george@valhalla:~/jupyter$ 
+> george@valhalla:~$ cd math87
+> george@valhalla:~/math87$ 
 > ```
 
 (You should only type the `cd jupyter` bit. And you may need to type a
 more complicated string if the directory you created is nested below
-your home directory).
+your home directory. In these instructions going forward I'm going to
+suppress writing the full `prompt` displayed by the terminal).
 
-Now create a `virtual environment` as follows:
-
-> ```
-> $ python -m venv .venv
-> ```
-
-You may need to instead type
+We now use `uv` to create a directory for `jupyter` and `python`
+related packages by executing the following command in the terminal:
 
 > ```
-> $ python3 -m venv .venv
+> $ uv init jupyter
 > ```
 
-Among other things, this should create a directory named `.venv`
-beneath your `jupyter` directory.
-
-You now need to *activate* the virtual environment in your terminal.
-In linux or on a mac, you do this as follows:
+You should see some output saying  something like
 
 > ```
-> $ source .venv/bin/activate
+> Initialized project `jupyter` at `/home/george/math87/jupyter`.
 > ```
 
-Looking at the docs
-https://docs.python.org/3/library/venv.html
-is appears that in `windows` you proceed as follows
+Now change to the directory just created:
 
 > ```
-> # in cmd.exe
-> C:\jupyter\> .venv/Scripts\activate.bat
-> 
-> #or
-> # in powershell
-> C:\jupyter\> .venv\Scripts\Activate.ps1
+> $ cd jupyter
 > ```
 
-After activation, the terminal "prompt" should appear differently. For
-example, you might see something like this:
+And install relevant packages:
 
 > ```
-> (.venv) george@valhalla:~/jupyter$ 
+> $ uv add jupyter matplotlib nbconvert numpy pandas scipy sympy
 > ```
 
-You can no *exit* the virtual environment by typing `deactivate`, like this:
+Now, we can use `uv` to start a `jupyter` server on your computer:
 
 > ```
-> (.venv) george@valhalla:~/jupyter$ deactivate
-> george@valhalla:~/jupyter$
+> $ uv run jupyter-lab
 > ```
 
-Now, with the virtual environment active, you can install the following
-packages using a command called `pip`:
+After running this command, you should see a bunch of output in the
+terminal (which you can largely ignore). And a tab should open in your
+browser with a URL like
 
 > ```
-> (.venv) george@valhalla~/jupyter$ pip install jupyter numpy sympy scipy pandas pydot matplotlib
+> http://localhost:8888/lab
 > ```
 
-`pip` will install all these packages *in your `jupyter/.venv`
-directory*. In this case, packages occupying ~750M of disk space are
-installed and can be removed simply by deleting your `jupyter`
-directory.
+And in that tab you can interact with the `jupyter` server running on
+your computer. You can stop that server from running by stopping the
+`uv run juypter-lab` job (say be typing `ctrl-c` in the terminal, or
+by closing the terminal completely...)
 
 # Interacting with `jupyter` on your computer {#jupyter}
 
 
 You can always view and interact with `jupyter notebooks` on
-`colab`. But if you carried out the above instructions for installing
-`conda`, you can now use `jupyter` notebooks on your own computer.
+`colab`. But if you carried out the above installation instructions,
+you can now use `jupyter` notebooks on your own computer.
 
-Start `jupyter` from the command-line. I actually find that I prefer
-the `jupyter lab` interface to the the plain `jupyter notebook`
-interface (and honestly I'm not sure I understand why there are two
-different interfaces) but you should experiment for yourself.
+As explained in the installation notes (above), you can start
+`jupyter` from the command-line/terminal via `uv run jupyter-lab` in a
+terminal, after first making sure you are in the correct directory).
 
-So, with you virtual envirnoment activated type:
-
-
-> ```
-> (.venv) george@valhalla:~$ jupyter-lab
-> ```
-
-There will be some output to the terminal that you can mostly
-ignore. The significant effect of running this program is that *a page
-should open in your web browser*.
+In fact, there are various versions of the `jupyter` interface - you
+could instead use the command `uv run jupyter notebook`. Honestly, I'm
+not completely sure I understand why there are two different
+interfaces; you should experiment for yourself.
 
 The page that opens will have a `URL` that looks something like:
 
