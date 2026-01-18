@@ -150,6 +150,8 @@ Now, we can use `uv` to start a `jupyter` server on your computer:
 > $ uv run jupyter-lab
 > ```
 
+
+
 After running this command, you should see a bunch of output in the
 terminal (which you can largely ignore). And a tab should open in your
 browser with a URL like
@@ -178,6 +180,16 @@ In fact, there are various versions of the `jupyter` interface - you
 could instead use the command `uv run jupyter notebook`. Honestly, I'm
 not completely sure I understand why there are two different
 interfaces; you should experiment for yourself.
+
+To run `jupyter-lab` in your terminal when the current directory
+is not your project directory, you can use something like
+
+> ```
+> $ uv run --project /home/george/math87/jupyter jupyter-lab
+> ```
+
+which enables you to provide the `path` to the project directory.
+
 
 The page that opens will have a `URL` that looks something like:
 

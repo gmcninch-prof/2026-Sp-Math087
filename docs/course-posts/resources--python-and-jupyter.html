@@ -190,6 +190,12 @@ terminal, after first making sure you are in the correct directory).</p>
 could instead use the command <code>uv run jupyter notebook</code>. Honestly, I’m
 not completely sure I understand why there are two different
 interfaces; you should experiment for yourself.</p>
+<p>To run <code>jupyter-lab</code> in your terminal when the current directory
+is not your project directory, you can use something like</p>
+<blockquote>
+<pre><code>$ uv run --project /home/george/math87/jupyter jupyter-lab</code></pre>
+</blockquote>
+<p>which enables you to provide the <code>path</code> to the project directory.</p>
 <p>The page that opens will have a <code>URL</code> that looks something like:</p>
 <blockquote>
 <pre><code>http://localhost:8888/lab</code></pre>
