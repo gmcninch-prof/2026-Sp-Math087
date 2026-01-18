@@ -11,7 +11,7 @@ collect the first homework on Fri Jan 23.
 
   - optimization and derivatives
     [notebook](/course-content/week02-01--optimization-and-derivatives.ipynb)
-	[colab](https://colab.research.google.com/github/gmcninch-prof/2026-Sp-Math087/blob/main/course-content/week02-01-optimization-and-derivatives.ipynb)
+	[colab](https://colab.research.google.com/github/gmcninch-prof/2026-Sp-Math087/blob/main/course-content/week02-01--optimization-and-derivatives.ipynb)
 
   - multivariate optimization
     [notebook](/course-content/week02-02--multivariable-optimization.ipynb)
