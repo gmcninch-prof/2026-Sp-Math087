@@ -20,5 +20,6 @@ date: 2026-01-26
 	
 
 
-- Assignment [PS02](/course-assignments/PS02--2026-01-30--optimization.pdf) (updated [2026-01-30])
+- Assignment PS02 is now posted on gradescope.
+  (Going forward, I'm just going to post the assignments on gradescope.)
     
