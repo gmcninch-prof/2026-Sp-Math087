@@ -32,9 +32,7 @@ Here are details on these course components:
 
   Since the class meets on Mondays and Wednesdays, problem sets will
   be collected weekly on *Fridays* (some weeks, a midterm report --
-  see below -- will instead by collected on Friday). [Here is the
-  planned collection
-  schedule](/course-pages/Math087--Assignments--AY2023-2024spring.html).
+  see below -- will instead by collected on Friday). 
 
   The problems will be posted on the course website, and your
   solutions will be submitted to [Gradescope](https://www.gradescope.com/) -- see [these remarks
@@ -48,11 +46,12 @@ Here are details on these course components:
 
   Here are the dates:
   
-  - midterm report 1 -- 
-  - midterm report 2 -- 
-  - final report proposal due -- 
-  - final report due -- 
-
+  - midterm report 1 -- [2026-02-13]
+  - midterm report 2 -- [2026-03-20]
+  
+  - details on the final project - including deadlines - will be
+    announced on canvas and posted to the course website.
+  
 Please refer to the course website where you will find more detailed
 description of expectations concerning these course
 components.
@@ -64,9 +63,9 @@ Table: **Grading**
 
 | grade component        | percentage |
 |:-----------------------|:-----------|
-| problem sets (average) | 35%        |
-| midterm report 1       | 20%        |
-| midterm report 2       | 20%        |
+| problem sets (average) | 45%        |
+| midterm report 1       | 15%        |
+| midterm report 2       | 15%        |
 | final report           | 25%        |
 
 -------

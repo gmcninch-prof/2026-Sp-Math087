@@ -1,4 +1,4 @@
--- Time-stamp: <2026-01-12 Mon 12:11 EST - george@valhalla>
+-- Time-stamp: <2026-01-24 Sat 10:45 EST - george@valhalla>
 let Dow = < Mon | Tue | Wed | Thu | Fri | Sat | Sun >
 
 let concat = https://prelude.dhall-lang.org/List/concat
@@ -60,7 +60,7 @@ let homework =
       CourseComponent.Assignment
         { description = "Homework collected on gradescope"
         , sched =
-          [ ScheduleDetails.DowDue { dow = Dow.Sun, deadline = "23:59" } ]
+          [ ScheduleDetails.DowDue { dow = Dow.Fri, deadline = "23:59" } ]
         , assignments = ./topics/assignments.dhall : List Text
         }
 
