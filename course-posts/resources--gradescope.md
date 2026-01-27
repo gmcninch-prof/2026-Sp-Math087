@@ -30,3 +30,11 @@ of handwritten work here:
 [gradescope]: http://www.gradescope.com
 [canvas]: http://www.canvas.com
 
+Note that your submission for a homework assignment must be a single
+PDF document.  Here are some resources for managed PDFs:
+
+
+[ILovePDF](https://www.ilovepdf.com/)
+
+[SmallPDF](https://smallpdf.com/)
+
