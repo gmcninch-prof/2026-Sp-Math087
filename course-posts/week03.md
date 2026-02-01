@@ -14,11 +14,6 @@ date: 2026-01-26
     [notebook](/course-content/week03-02--Newtons-method.ipynb)
 	[colab](https://colab.research.google.com/github/gmcninch-prof/2026-Sp-Math087/blob/main/course-content/week03-02--Newtons-method.ipynb)
 
-  - multivariate optimization
-    [notebook](/course-content/week03-03--optimization-and-linprog.ipynb)
-	[colab](https://colab.research.google.com/github/gmcninch-prof/2026-Sp-Math087/blob/main/course-content/week03-03--optimization-and-linprog.ipynb)
-	
-
 
 - Assignment PS02 is now posted on gradescope.
   (Going forward, I'm just going to post the assignments on gradescope.)
