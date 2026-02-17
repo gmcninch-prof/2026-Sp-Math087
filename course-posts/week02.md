@@ -21,5 +21,5 @@ collect the first homework on Fri Jan 23.
     [notebook](/course-content/week02-03--lagrange.ipynb)
 	[colab](https://colab.research.google.com/github/gmcninch-prof/2026-Sp-Math087/blob/main/course-content/week02-03--lagrange.ipynb)
 
-- Assignment [PS01](/course-assignments/ps01--2026-01-23--optimization.pdf) (updated [2026-01-20])
+- Assignment PS01 available on gradescope
     
