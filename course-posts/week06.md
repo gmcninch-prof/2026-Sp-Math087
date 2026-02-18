@@ -22,4 +22,13 @@ This week we'll discuss *integer programming*, which is to say linear programmin
 
 - PS04 is posted on gradescope
 
+- **Note:** If you are using `jupyter` running on your own computer
+  (rather than via `colab`) you'll (probably) need to *install* pip.
+  
+  If you followed the [instructions here](/course-posts/resources--python-and-jupyter.html) then
+  you'll need to run the command
+  ```
+  uv pip install pulp
+  ```
+  in the same directory that you installed `jupyter` and the other packages.
     
