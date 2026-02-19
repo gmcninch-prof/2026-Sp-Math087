@@ -20,6 +20,11 @@ This week we'll discuss *integer programming*, which is to say linear programmin
     [notebook](/course-content/week06-03--knapsack.ipynb)
 	[colab](https://colab.research.google.com/github/gmcninch-prof/2026-Sp-Math087/blob/main/course-content/week06-03--knapsack.ipynb)  
 
+  - duality again
+    [notebook](/course-content/week06-04--duality-again.ipynb)
+	[colab](https://colab.research.google.com/github/gmcninch-prof/2026-Sp-Math087/blob/main/course-content/week06-04--duality-again.ipynb)  
+
+
 - PS04 is posted on gradescope
 
 - **Note:** If you are using `jupyter` running on your own computer
