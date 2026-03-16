@@ -1,0 +1,398 @@
+[
+  {
+    "name": "Acacia",
+    "type": "plant"
+  },
+  {
+    "name": "Savanna Grass",
+    "type": "plant"
+  },
+  {
+    "name": "Baobab",
+    "type": "plant"
+  },
+  {
+    "name": "Shrubs",
+    "type": "plant"
+  },
+  {
+    "name": "Fig Tree",
+    "type": "plant"
+  },
+  {
+    "name": "Lion",
+    "type": "apex predator"
+  },
+  {
+    "name": "Leopard",
+    "type": "apex predator"
+  },
+  {
+    "name": "Cheetah",
+    "type": "apex predator"
+  },
+  {
+    "name": "African Wild Dog",
+    "type": "apex predator"
+  },
+  {
+    "name": "Spotted Hyena",
+    "type": "apex predator"
+  },
+  {
+    "name": "Nile Crocodile",
+    "type": "apex predator"
+  },
+  {
+    "name": "Martial Eagle",
+    "type": "apex predator"
+  },
+  {
+    "name": "Verreaux's Eagle",
+    "type": "apex predator"
+  },
+  {
+    "name": "African Hawk-Eagle",
+    "type": "apex predator"
+  },
+  {
+    "name": "African Rock Python",
+    "type": "apex predator"
+  },
+  {
+    "name": "Striped Hyena",
+    "type": "mesopredator"
+  },
+  {
+    "name": "Serval",
+    "type": "mesopredator"
+  },
+  {
+    "name": "Caracal",
+    "type": "mesopredator"
+  },
+  {
+    "name": "African Wildcat",
+    "type": "mesopredator"
+  },
+  {
+    "name": "Honey Badger",
+    "type": "mesopredator"
+  },
+  {
+    "name": "Banded Mongoose",
+    "type": "mesopredator"
+  },
+  {
+    "name": "Dwarf Mongoose",
+    "type": "mesopredator"
+  },
+  {
+    "name": "Slender Mongoose",
+    "type": "mesopredator"
+  },
+  {
+    "name": "Meerkat",
+    "type": "mesopredator"
+  },
+  {
+    "name": "Large-spotted Genet",
+    "type": "mesopredator"
+  },
+  {
+    "name": "Striped Polecat",
+    "type": "mesopredator"
+  },
+  {
+    "name": "African Clawless Otter",
+    "type": "mesopredator"
+  },
+  {
+    "name": "Nile Monitor",
+    "type": "mesopredator"
+  },
+  {
+    "name": "Rock Monitor",
+    "type": "mesopredator"
+  },
+  {
+    "name": "Puff Adder",
+    "type": "mesopredator"
+  },
+  {
+    "name": "Black Mamba",
+    "type": "mesopredator"
+  },
+  {
+    "name": "Boomslang",
+    "type": "mesopredator"
+  },
+  {
+    "name": "Secretary Bird",
+    "type": "mesopredator"
+  },
+  {
+    "name": "Kori Bustard",
+    "type": "mesopredator"
+  },
+  {
+    "name": "Ground Hornbill",
+    "type": "mesopredator"
+  },
+  {
+    "name": "Yellow-billed Hornbill",
+    "type": "mesopredator"
+  },
+  {
+    "name": "African White-backed Vulture",
+    "type": "scavenger"
+  },
+  {
+    "name": "Lappet-faced Vulture",
+    "type": "scavenger"
+  },
+  {
+    "name": "Hooded Vulture",
+    "type": "scavenger"
+  },
+  {
+    "name": "Egyptian Vulture",
+    "type": "scavenger"
+  },
+  {
+    "name": "Marabou Stork",
+    "type": "scavenger"
+  },
+  {
+    "name": "Brown Hyena",
+    "type": "scavenger"
+  },
+  {
+    "name": "Olive Baboon",
+    "type": "omnivore"
+  },
+  {
+    "name": "Chacma Baboon",
+    "type": "omnivore"
+  },
+  {
+    "name": "Vervet Monkey",
+    "type": "omnivore"
+  },
+  {
+    "name": "Patas Monkey",
+    "type": "omnivore"
+  },
+  {
+    "name": "Bat-eared Fox",
+    "type": "omnivore"
+  },
+  {
+    "name": "Black-backed Jackal",
+    "type": "omnivore"
+  },
+  {
+    "name": "Side-striped Jackal",
+    "type": "omnivore"
+  },
+  {
+    "name": "African Civet",
+    "type": "omnivore"
+  },
+  {
+    "name": "Warthog",
+    "type": "omnivore"
+  },
+  {
+    "name": "Bushpig",
+    "type": "omnivore"
+  },
+  {
+    "name": "African Ostrich",
+    "type": "omnivore"
+  },
+  {
+    "name": "Grey-crowned Crane",
+    "type": "omnivore"
+  },
+  {
+    "name": "Superb Starling",
+    "type": "omnivore"
+  },
+  {
+    "name": "Red-billed Quelea",
+    "type": "omnivore"
+  },
+  {
+    "name": "Aardvark",
+    "type": "omnivore"
+  },
+  {
+    "name": "Aardwolf",
+    "type": "omnivore"
+  },
+  {
+    "name": "African Elephant",
+    "type": "large herbivore"
+  },
+  {
+    "name": "White Rhinoceros",
+    "type": "large herbivore"
+  },
+  {
+    "name": "Black Rhinoceros",
+    "type": "large herbivore"
+  },
+  {
+    "name": "Hippopotamus",
+    "type": "large herbivore"
+  },
+  {
+    "name": "Giraffe",
+    "type": "large herbivore"
+  },
+  {
+    "name": "African Buffalo",
+    "type": "large herbivore"
+  },
+  {
+    "name": "Common Zebra",
+    "type": "large herbivore"
+  },
+  {
+    "name": "Grevy's Zebra",
+    "type": "large herbivore"
+  },
+  {
+    "name": "Blue Wildebeest",
+    "type": "large herbivore"
+  },
+  {
+    "name": "Black Wildebeest",
+    "type": "large herbivore"
+  },
+  {
+    "name": "Common Eland",
+    "type": "large herbivore"
+  },
+  {
+    "name": "Greater Kudu",
+    "type": "large herbivore"
+  },
+  {
+    "name": "Lesser Kudu",
+    "type": "large herbivore"
+  },
+  {
+    "name": "Sable Antelope",
+    "type": "large herbivore"
+  },
+  {
+    "name": "Roan Antelope",
+    "type": "large herbivore"
+  },
+  {
+    "name": "Waterbuck",
+    "type": "large herbivore"
+  },
+  {
+    "name": "Topi",
+    "type": "large herbivore"
+  },
+  {
+    "name": "Hartebeest",
+    "type": "large herbivore"
+  },
+  {
+    "name": "Oryx",
+    "type": "large herbivore"
+  },
+  {
+    "name": "Impala",
+    "type": "small herbivore"
+  },
+  {
+    "name": "Thomson's Gazelle",
+    "type": "small herbivore"
+  },
+  {
+    "name": "Grant's Gazelle",
+    "type": "small herbivore"
+  },
+  {
+    "name": "Springbok",
+    "type": "small herbivore"
+  },
+  {
+    "name": "Bushbuck",
+    "type": "small herbivore"
+  },
+  {
+    "name": "Reedbuck",
+    "type": "small herbivore"
+  },
+  {
+    "name": "Steenbok",
+    "type": "small herbivore"
+  },
+  {
+    "name": "Klipspringer",
+    "type": "small herbivore"
+  },
+  {
+    "name": "Rock Hyrax",
+    "type": "small herbivore"
+  },
+  {
+    "name": "Bush Hyrax",
+    "type": "small herbivore"
+  },
+  {
+    "name": "Springhare",
+    "type": "small herbivore"
+  },
+  {
+    "name": "Cape Hare",
+    "type": "small herbivore"
+  },
+  {
+    "name": "Scrub Hare",
+    "type": "small herbivore"
+  },
+  {
+    "name": "African Porcupine",
+    "type": "small herbivore"
+  },
+  {
+    "name": "Crested Rat",
+    "type": "small herbivore"
+  },
+  {
+    "name": "Pangolin",
+    "type": "small herbivore"
+  },
+  {
+    "name": "Termite",
+    "type": "small fauna"
+  },
+  {
+    "name": "Dung Beetle",
+    "type": "small fauna"
+  },
+  {
+    "name": "Locust",
+    "type": "small fauna"
+  },
+  {
+    "name": "Scorpion",
+    "type": "small fauna"
+  },
+  {
+    "name": "African Bullfrog",
+    "type": "small fauna"
+  },
+  {
+    "name": "Painted Reed Frog",
+    "type": "small fauna"
+  }
+]

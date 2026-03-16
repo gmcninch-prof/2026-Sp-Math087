@@ -1,0 +1,4012 @@
+[
+  {
+    "agent": "Lion",
+    "subject": "Blue Wildebeest",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Lion",
+    "subject": "Common Zebra",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Lion",
+    "subject": "Grevy's Zebra",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Lion",
+    "subject": "African Buffalo",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Lion",
+    "subject": "Giraffe",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Lion",
+    "subject": "Impala",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Lion",
+    "subject": "Thomson's Gazelle",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Lion",
+    "subject": "Grant's Gazelle",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Lion",
+    "subject": "Warthog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Lion",
+    "subject": "Topi",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Lion",
+    "subject": "Hartebeest",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Lion",
+    "subject": "Waterbuck",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Lion",
+    "subject": "Sable Antelope",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Lion",
+    "subject": "Roan Antelope",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Lion",
+    "subject": "Black Wildebeest",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Lion",
+    "subject": "Common Eland",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Lion",
+    "subject": "Greater Kudu",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Lion",
+    "subject": "African Wild Dog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Lion",
+    "subject": "Cheetah",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Lion",
+    "subject": "Spotted Hyena",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Lion",
+    "subject": "Olive Baboon",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Leopard",
+    "subject": "Impala",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Leopard",
+    "subject": "Thomson's Gazelle",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Leopard",
+    "subject": "Grant's Gazelle",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Leopard",
+    "subject": "Bushbuck",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Leopard",
+    "subject": "Reedbuck",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Leopard",
+    "subject": "Warthog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Leopard",
+    "subject": "Olive Baboon",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Leopard",
+    "subject": "Vervet Monkey",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Leopard",
+    "subject": "Cape Hare",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Leopard",
+    "subject": "Scrub Hare",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Leopard",
+    "subject": "Rock Hyrax",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Leopard",
+    "subject": "Bush Hyrax",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Leopard",
+    "subject": "African Porcupine",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Leopard",
+    "subject": "Large-spotted Genet",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Leopard",
+    "subject": "African Wildcat",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Leopard",
+    "subject": "Black-backed Jackal",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Leopard",
+    "subject": "Bat-eared Fox",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Leopard",
+    "subject": "Springhare",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Leopard",
+    "subject": "Steenbok",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Leopard",
+    "subject": "African Civet",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Cheetah",
+    "subject": "Thomson's Gazelle",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Cheetah",
+    "subject": "Grant's Gazelle",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Cheetah",
+    "subject": "Impala",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Cheetah",
+    "subject": "Springbok",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Cheetah",
+    "subject": "Steenbok",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Cheetah",
+    "subject": "Cape Hare",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Cheetah",
+    "subject": "Scrub Hare",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Cheetah",
+    "subject": "Common Zebra",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Cheetah",
+    "subject": "Warthog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Cheetah",
+    "subject": "Reedbuck",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Cheetah",
+    "subject": "African Ostrich",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Wild Dog",
+    "subject": "Impala",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Wild Dog",
+    "subject": "Thomson's Gazelle",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Wild Dog",
+    "subject": "Grant's Gazelle",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Wild Dog",
+    "subject": "Common Zebra",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Wild Dog",
+    "subject": "Blue Wildebeest",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Wild Dog",
+    "subject": "Bushbuck",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Wild Dog",
+    "subject": "Reedbuck",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Wild Dog",
+    "subject": "Warthog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Wild Dog",
+    "subject": "Topi",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Wild Dog",
+    "subject": "Hartebeest",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Wild Dog",
+    "subject": "Springbok",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Spotted Hyena",
+    "subject": "Blue Wildebeest",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Spotted Hyena",
+    "subject": "Common Zebra",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Spotted Hyena",
+    "subject": "Thomson's Gazelle",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Spotted Hyena",
+    "subject": "Grant's Gazelle",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Spotted Hyena",
+    "subject": "Impala",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Spotted Hyena",
+    "subject": "African Buffalo",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Spotted Hyena",
+    "subject": "Warthog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Spotted Hyena",
+    "subject": "Topi",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Spotted Hyena",
+    "subject": "Hartebeest",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Spotted Hyena",
+    "subject": "Waterbuck",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Spotted Hyena",
+    "subject": "Common Eland",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Spotted Hyena",
+    "subject": "African Wild Dog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Spotted Hyena",
+    "subject": "Cheetah",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Spotted Hyena",
+    "subject": "Olive Baboon",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Striped Hyena",
+    "subject": "Cape Hare",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Striped Hyena",
+    "subject": "Scrub Hare",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Striped Hyena",
+    "subject": "Springhare",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Striped Hyena",
+    "subject": "Thomson's Gazelle",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Striped Hyena",
+    "subject": "Steenbok",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Striped Hyena",
+    "subject": "Rock Hyrax",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Nile Crocodile",
+    "subject": "Blue Wildebeest",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Nile Crocodile",
+    "subject": "Common Zebra",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Nile Crocodile",
+    "subject": "Impala",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Nile Crocodile",
+    "subject": "Thomson's Gazelle",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Nile Crocodile",
+    "subject": "African Buffalo",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Nile Crocodile",
+    "subject": "Hippopotamus",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Nile Crocodile",
+    "subject": "Warthog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Nile Crocodile",
+    "subject": "Waterbuck",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Nile Crocodile",
+    "subject": "African Clawless Otter",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Nile Crocodile",
+    "subject": "Nile Monitor",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Nile Crocodile",
+    "subject": "African Bullfrog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Nile Crocodile",
+    "subject": "Grey-crowned Crane",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Nile Crocodile",
+    "subject": "African Ostrich",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Martial Eagle",
+    "subject": "Rock Hyrax",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Martial Eagle",
+    "subject": "Bush Hyrax",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Martial Eagle",
+    "subject": "Vervet Monkey",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Martial Eagle",
+    "subject": "Olive Baboon",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Martial Eagle",
+    "subject": "Impala",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Martial Eagle",
+    "subject": "Thomson's Gazelle",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Martial Eagle",
+    "subject": "African Wildcat",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Martial Eagle",
+    "subject": "Banded Mongoose",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Martial Eagle",
+    "subject": "Nile Monitor",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Martial Eagle",
+    "subject": "Rock Monitor",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Martial Eagle",
+    "subject": "African Rock Python",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Martial Eagle",
+    "subject": "Kori Bustard",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Martial Eagle",
+    "subject": "Ground Hornbill",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Martial Eagle",
+    "subject": "Secretary Bird",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Verreaux's Eagle",
+    "subject": "Rock Hyrax",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Verreaux's Eagle",
+    "subject": "Bush Hyrax",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Verreaux's Eagle",
+    "subject": "Cape Hare",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Verreaux's Eagle",
+    "subject": "Scrub Hare",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Verreaux's Eagle",
+    "subject": "Springhare",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Verreaux's Eagle",
+    "subject": "Banded Mongoose",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Hawk-Eagle",
+    "subject": "Vervet Monkey",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Hawk-Eagle",
+    "subject": "Rock Hyrax",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Hawk-Eagle",
+    "subject": "Scrub Hare",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Hawk-Eagle",
+    "subject": "Springhare",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Hawk-Eagle",
+    "subject": "Yellow-billed Hornbill",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Hawk-Eagle",
+    "subject": "Superb Starling",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Hawk-Eagle",
+    "subject": "Red-billed Quelea",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Serval",
+    "subject": "Springhare",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Serval",
+    "subject": "Cape Hare",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Serval",
+    "subject": "Scrub Hare",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Serval",
+    "subject": "Crested Rat",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Serval",
+    "subject": "Rock Hyrax",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Serval",
+    "subject": "Painted Reed Frog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Serval",
+    "subject": "African Bullfrog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Serval",
+    "subject": "Red-billed Quelea",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Serval",
+    "subject": "Superb Starling",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Serval",
+    "subject": "Locust",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Serval",
+    "subject": "African Wildcat",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Caracal",
+    "subject": "Cape Hare",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Caracal",
+    "subject": "Scrub Hare",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Caracal",
+    "subject": "Springhare",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Caracal",
+    "subject": "Rock Hyrax",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Caracal",
+    "subject": "Bush Hyrax",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Caracal",
+    "subject": "Steenbok",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Caracal",
+    "subject": "African Wildcat",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Caracal",
+    "subject": "Bat-eared Fox",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Caracal",
+    "subject": "Kori Bustard",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Caracal",
+    "subject": "Grey-crowned Crane",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Caracal",
+    "subject": "African Ostrich",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Caracal",
+    "subject": "Red-billed Quelea",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Wildcat",
+    "subject": "Crested Rat",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Wildcat",
+    "subject": "Springhare",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Wildcat",
+    "subject": "Cape Hare",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Wildcat",
+    "subject": "Locust",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Wildcat",
+    "subject": "Scorpion",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Wildcat",
+    "subject": "Painted Reed Frog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Wildcat",
+    "subject": "African Bullfrog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Black-backed Jackal",
+    "subject": "Thomson's Gazelle",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Black-backed Jackal",
+    "subject": "Steenbok",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Black-backed Jackal",
+    "subject": "Cape Hare",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Black-backed Jackal",
+    "subject": "Scrub Hare",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Black-backed Jackal",
+    "subject": "Springhare",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Black-backed Jackal",
+    "subject": "Crested Rat",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Black-backed Jackal",
+    "subject": "Locust",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Black-backed Jackal",
+    "subject": "Scorpion",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Black-backed Jackal",
+    "subject": "Painted Reed Frog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Black-backed Jackal",
+    "subject": "African Bullfrog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Black-backed Jackal",
+    "subject": "Red-billed Quelea",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Black-backed Jackal",
+    "subject": "Dung Beetle",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Black-backed Jackal",
+    "subject": "Termite",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Side-striped Jackal",
+    "subject": "Cape Hare",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Side-striped Jackal",
+    "subject": "Scrub Hare",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Side-striped Jackal",
+    "subject": "Crested Rat",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Side-striped Jackal",
+    "subject": "Locust",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Side-striped Jackal",
+    "subject": "Termite",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Side-striped Jackal",
+    "subject": "Dung Beetle",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Side-striped Jackal",
+    "subject": "Painted Reed Frog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Bat-eared Fox",
+    "subject": "Termite",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Bat-eared Fox",
+    "subject": "Locust",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Bat-eared Fox",
+    "subject": "Scorpion",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Bat-eared Fox",
+    "subject": "Dung Beetle",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Bat-eared Fox",
+    "subject": "Crested Rat",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Bat-eared Fox",
+    "subject": "Painted Reed Frog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Civet",
+    "subject": "Crested Rat",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Civet",
+    "subject": "Springhare",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Civet",
+    "subject": "Cape Hare",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Civet",
+    "subject": "Locust",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Civet",
+    "subject": "Scorpion",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Civet",
+    "subject": "Painted Reed Frog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Civet",
+    "subject": "African Bullfrog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Civet",
+    "subject": "Termite",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Civet",
+    "subject": "Dung Beetle",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Honey Badger",
+    "subject": "Scorpion",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Honey Badger",
+    "subject": "Puff Adder",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Honey Badger",
+    "subject": "Black Mamba",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Honey Badger",
+    "subject": "Boomslang",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Honey Badger",
+    "subject": "Termite",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Honey Badger",
+    "subject": "Springhare",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Honey Badger",
+    "subject": "Cape Hare",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Honey Badger",
+    "subject": "Crested Rat",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Honey Badger",
+    "subject": "Rock Hyrax",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Honey Badger",
+    "subject": "African Bullfrog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Honey Badger",
+    "subject": "Dung Beetle",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Banded Mongoose",
+    "subject": "Scorpion",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Banded Mongoose",
+    "subject": "Termite",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Banded Mongoose",
+    "subject": "Locust",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Banded Mongoose",
+    "subject": "Dung Beetle",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Banded Mongoose",
+    "subject": "Painted Reed Frog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Banded Mongoose",
+    "subject": "African Bullfrog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Banded Mongoose",
+    "subject": "Puff Adder",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Banded Mongoose",
+    "subject": "Boomslang",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Banded Mongoose",
+    "subject": "Crested Rat",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Dwarf Mongoose",
+    "subject": "Termite",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Dwarf Mongoose",
+    "subject": "Locust",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Dwarf Mongoose",
+    "subject": "Scorpion",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Dwarf Mongoose",
+    "subject": "Dung Beetle",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Dwarf Mongoose",
+    "subject": "Painted Reed Frog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Slender Mongoose",
+    "subject": "Crested Rat",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Slender Mongoose",
+    "subject": "Locust",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Slender Mongoose",
+    "subject": "Scorpion",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Slender Mongoose",
+    "subject": "Puff Adder",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Slender Mongoose",
+    "subject": "Painted Reed Frog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Slender Mongoose",
+    "subject": "Dung Beetle",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Meerkat",
+    "subject": "Scorpion",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Meerkat",
+    "subject": "Termite",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Meerkat",
+    "subject": "Locust",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Meerkat",
+    "subject": "Dung Beetle",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Meerkat",
+    "subject": "Painted Reed Frog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Meerkat",
+    "subject": "Puff Adder",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Clawless Otter",
+    "subject": "African Bullfrog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Clawless Otter",
+    "subject": "Painted Reed Frog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Clawless Otter",
+    "subject": "Nile Monitor",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Large-spotted Genet",
+    "subject": "Crested Rat",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Large-spotted Genet",
+    "subject": "Springhare",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Large-spotted Genet",
+    "subject": "Cape Hare",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Large-spotted Genet",
+    "subject": "Locust",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Large-spotted Genet",
+    "subject": "Scorpion",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Large-spotted Genet",
+    "subject": "Painted Reed Frog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Large-spotted Genet",
+    "subject": "Red-billed Quelea",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Large-spotted Genet",
+    "subject": "Superb Starling",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Large-spotted Genet",
+    "subject": "Termite",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Striped Polecat",
+    "subject": "Crested Rat",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Striped Polecat",
+    "subject": "Scorpion",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Striped Polecat",
+    "subject": "Termite",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Striped Polecat",
+    "subject": "Locust",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Striped Polecat",
+    "subject": "Painted Reed Frog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Striped Polecat",
+    "subject": "Dung Beetle",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Aardwolf",
+    "subject": "Termite",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Brown Hyena",
+    "subject": "Cape Hare",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Brown Hyena",
+    "subject": "Scrub Hare",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Brown Hyena",
+    "subject": "Springhare",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Brown Hyena",
+    "subject": "Steenbok",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Brown Hyena",
+    "subject": "Thomson's Gazelle",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Brown Hyena",
+    "subject": "Termite",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Brown Hyena",
+    "subject": "Dung Beetle",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Secretary Bird",
+    "subject": "Puff Adder",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Secretary Bird",
+    "subject": "Black Mamba",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Secretary Bird",
+    "subject": "Boomslang",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Secretary Bird",
+    "subject": "Locust",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Secretary Bird",
+    "subject": "Scorpion",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Secretary Bird",
+    "subject": "African Bullfrog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Secretary Bird",
+    "subject": "Crested Rat",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Secretary Bird",
+    "subject": "Termite",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Kori Bustard",
+    "subject": "Locust",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Kori Bustard",
+    "subject": "Scorpion",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Kori Bustard",
+    "subject": "Termite",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Kori Bustard",
+    "subject": "Puff Adder",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Kori Bustard",
+    "subject": "African Bullfrog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Ground Hornbill",
+    "subject": "Locust",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Ground Hornbill",
+    "subject": "Scorpion",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Ground Hornbill",
+    "subject": "Termite",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Ground Hornbill",
+    "subject": "Puff Adder",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Ground Hornbill",
+    "subject": "Boomslang",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Ground Hornbill",
+    "subject": "African Bullfrog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Ground Hornbill",
+    "subject": "Painted Reed Frog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Ground Hornbill",
+    "subject": "Crested Rat",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Ground Hornbill",
+    "subject": "Dung Beetle",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Yellow-billed Hornbill",
+    "subject": "Termite",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Yellow-billed Hornbill",
+    "subject": "Locust",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Yellow-billed Hornbill",
+    "subject": "Dung Beetle",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Yellow-billed Hornbill",
+    "subject": "Scorpion",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Marabou Stork",
+    "subject": "African Bullfrog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Marabou Stork",
+    "subject": "Painted Reed Frog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Marabou Stork",
+    "subject": "Locust",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Marabou Stork",
+    "subject": "Termite",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Marabou Stork",
+    "subject": "Crested Rat",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Nile Monitor",
+    "subject": "African Bullfrog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Nile Monitor",
+    "subject": "Painted Reed Frog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Nile Monitor",
+    "subject": "Termite",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Nile Monitor",
+    "subject": "Locust",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Nile Monitor",
+    "subject": "Scorpion",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Nile Monitor",
+    "subject": "Dung Beetle",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Nile Monitor",
+    "subject": "Crested Rat",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Nile Monitor",
+    "subject": "Puff Adder",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Nile Monitor",
+    "subject": "Boomslang",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Rock Monitor",
+    "subject": "Termite",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Rock Monitor",
+    "subject": "Locust",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Rock Monitor",
+    "subject": "Scorpion",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Rock Monitor",
+    "subject": "Dung Beetle",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Rock Monitor",
+    "subject": "Painted Reed Frog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Rock Monitor",
+    "subject": "African Bullfrog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Rock Monitor",
+    "subject": "Crested Rat",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Rock Python",
+    "subject": "Impala",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Rock Python",
+    "subject": "Thomson's Gazelle",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Rock Python",
+    "subject": "Warthog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Rock Python",
+    "subject": "Olive Baboon",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Rock Python",
+    "subject": "Vervet Monkey",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Rock Python",
+    "subject": "Cape Hare",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Rock Python",
+    "subject": "Scrub Hare",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Rock Python",
+    "subject": "Rock Hyrax",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Rock Python",
+    "subject": "Springhare",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Rock Python",
+    "subject": "Crested Rat",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Rock Python",
+    "subject": "African Wildcat",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Rock Python",
+    "subject": "Banded Mongoose",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Rock Python",
+    "subject": "African Civet",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Puff Adder",
+    "subject": "Cape Hare",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Puff Adder",
+    "subject": "Scrub Hare",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Puff Adder",
+    "subject": "Crested Rat",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Puff Adder",
+    "subject": "Springhare",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Puff Adder",
+    "subject": "Painted Reed Frog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Puff Adder",
+    "subject": "African Bullfrog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Puff Adder",
+    "subject": "Locust",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Puff Adder",
+    "subject": "Dung Beetle",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Black Mamba",
+    "subject": "Cape Hare",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Black Mamba",
+    "subject": "Scrub Hare",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Black Mamba",
+    "subject": "Crested Rat",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Black Mamba",
+    "subject": "Springhare",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Black Mamba",
+    "subject": "Rock Hyrax",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Black Mamba",
+    "subject": "Painted Reed Frog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Boomslang",
+    "subject": "Painted Reed Frog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Boomslang",
+    "subject": "African Bullfrog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Boomslang",
+    "subject": "Crested Rat",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Boomslang",
+    "subject": "Locust",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Boomslang",
+    "subject": "Dung Beetle",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Olive Baboon",
+    "subject": "Thomson's Gazelle",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Olive Baboon",
+    "subject": "Impala",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Olive Baboon",
+    "subject": "Vervet Monkey",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Olive Baboon",
+    "subject": "Cape Hare",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Olive Baboon",
+    "subject": "Scrub Hare",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Olive Baboon",
+    "subject": "Locust",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Olive Baboon",
+    "subject": "Scorpion",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Olive Baboon",
+    "subject": "Termite",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Olive Baboon",
+    "subject": "Painted Reed Frog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Olive Baboon",
+    "subject": "African Bullfrog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Olive Baboon",
+    "subject": "Crested Rat",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Olive Baboon",
+    "subject": "Dung Beetle",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Olive Baboon",
+    "subject": "Red-billed Quelea",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Olive Baboon",
+    "subject": "Acacia",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Olive Baboon",
+    "subject": "Savanna Grass",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Olive Baboon",
+    "subject": "Fig Tree",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Olive Baboon",
+    "subject": "Shrubs",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Chacma Baboon",
+    "subject": "Thomson's Gazelle",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Chacma Baboon",
+    "subject": "Cape Hare",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Chacma Baboon",
+    "subject": "Locust",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Chacma Baboon",
+    "subject": "Scorpion",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Chacma Baboon",
+    "subject": "Termite",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Chacma Baboon",
+    "subject": "Painted Reed Frog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Chacma Baboon",
+    "subject": "Crested Rat",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Chacma Baboon",
+    "subject": "Red-billed Quelea",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Chacma Baboon",
+    "subject": "Acacia",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Chacma Baboon",
+    "subject": "Savanna Grass",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Chacma Baboon",
+    "subject": "Fig Tree",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Chacma Baboon",
+    "subject": "Shrubs",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Vervet Monkey",
+    "subject": "Locust",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Vervet Monkey",
+    "subject": "Scorpion",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Vervet Monkey",
+    "subject": "Termite",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Vervet Monkey",
+    "subject": "Painted Reed Frog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Vervet Monkey",
+    "subject": "Crested Rat",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Vervet Monkey",
+    "subject": "Red-billed Quelea",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Vervet Monkey",
+    "subject": "Acacia",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Vervet Monkey",
+    "subject": "Fig Tree",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Vervet Monkey",
+    "subject": "Shrubs",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Patas Monkey",
+    "subject": "Locust",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Patas Monkey",
+    "subject": "Scorpion",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Patas Monkey",
+    "subject": "Termite",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Patas Monkey",
+    "subject": "Crested Rat",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Patas Monkey",
+    "subject": "Acacia",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Patas Monkey",
+    "subject": "Savanna Grass",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Patas Monkey",
+    "subject": "Shrubs",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Aardvark",
+    "subject": "Termite",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Pangolin",
+    "subject": "Termite",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Aardvark",
+    "subject": "Locust",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Pangolin",
+    "subject": "Locust",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Ostrich",
+    "subject": "Locust",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Ostrich",
+    "subject": "Termite",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Ostrich",
+    "subject": "Scorpion",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Ostrich",
+    "subject": "Dung Beetle",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Ostrich",
+    "subject": "Savanna Grass",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Ostrich",
+    "subject": "Shrubs",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Ostrich",
+    "subject": "Acacia",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Grey-crowned Crane",
+    "subject": "Locust",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Grey-crowned Crane",
+    "subject": "Termite",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Grey-crowned Crane",
+    "subject": "Scorpion",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Grey-crowned Crane",
+    "subject": "African Bullfrog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Grey-crowned Crane",
+    "subject": "Painted Reed Frog",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Grey-crowned Crane",
+    "subject": "Savanna Grass",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Superb Starling",
+    "subject": "Locust",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Red-billed Quelea",
+    "subject": "Locust",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Superb Starling",
+    "subject": "Termite",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Red-billed Quelea",
+    "subject": "Termite",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Superb Starling",
+    "subject": "Dung Beetle",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Red-billed Quelea",
+    "subject": "Dung Beetle",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Superb Starling",
+    "subject": "Savanna Grass",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Red-billed Quelea",
+    "subject": "Savanna Grass",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Superb Starling",
+    "subject": "Acacia",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Red-billed Quelea",
+    "subject": "Acacia",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Egyptian Vulture",
+    "subject": "Termite",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Egyptian Vulture",
+    "subject": "Locust",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Egyptian Vulture",
+    "subject": "Dung Beetle",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Egyptian Vulture",
+    "subject": "Scorpion",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Warthog",
+    "subject": "Savanna Grass",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Warthog",
+    "subject": "Acacia",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Warthog",
+    "subject": "Shrubs",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Warthog",
+    "subject": "Termite",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Warthog",
+    "subject": "Locust",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Warthog",
+    "subject": "Dung Beetle",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Bushpig",
+    "subject": "Savanna Grass",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Bushpig",
+    "subject": "Shrubs",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Bushpig",
+    "subject": "Acacia",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Bushpig",
+    "subject": "Baobab",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Bushpig",
+    "subject": "Termite",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Bushpig",
+    "subject": "Locust",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Bushpig",
+    "subject": "Scorpion",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Elephant",
+    "subject": "Savanna Grass",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Elephant",
+    "subject": "Acacia",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Elephant",
+    "subject": "Shrubs",
+    "relationship": "predation"
+  },
+  {
+    "agent": "White Rhinoceros",
+    "subject": "Savanna Grass",
+    "relationship": "predation"
+  },
+  {
+    "agent": "White Rhinoceros",
+    "subject": "Acacia",
+    "relationship": "predation"
+  },
+  {
+    "agent": "White Rhinoceros",
+    "subject": "Shrubs",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Black Rhinoceros",
+    "subject": "Savanna Grass",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Black Rhinoceros",
+    "subject": "Acacia",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Black Rhinoceros",
+    "subject": "Shrubs",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Hippopotamus",
+    "subject": "Savanna Grass",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Hippopotamus",
+    "subject": "Acacia",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Hippopotamus",
+    "subject": "Shrubs",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Buffalo",
+    "subject": "Savanna Grass",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Buffalo",
+    "subject": "Acacia",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Buffalo",
+    "subject": "Shrubs",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Common Zebra",
+    "subject": "Savanna Grass",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Common Zebra",
+    "subject": "Acacia",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Common Zebra",
+    "subject": "Shrubs",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Grevy's Zebra",
+    "subject": "Savanna Grass",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Grevy's Zebra",
+    "subject": "Acacia",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Grevy's Zebra",
+    "subject": "Shrubs",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Blue Wildebeest",
+    "subject": "Savanna Grass",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Blue Wildebeest",
+    "subject": "Acacia",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Blue Wildebeest",
+    "subject": "Shrubs",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Black Wildebeest",
+    "subject": "Savanna Grass",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Black Wildebeest",
+    "subject": "Acacia",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Black Wildebeest",
+    "subject": "Shrubs",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Topi",
+    "subject": "Savanna Grass",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Topi",
+    "subject": "Acacia",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Topi",
+    "subject": "Shrubs",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Hartebeest",
+    "subject": "Savanna Grass",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Hartebeest",
+    "subject": "Acacia",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Hartebeest",
+    "subject": "Shrubs",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Oryx",
+    "subject": "Savanna Grass",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Oryx",
+    "subject": "Acacia",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Oryx",
+    "subject": "Shrubs",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Giraffe",
+    "subject": "Acacia",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Giraffe",
+    "subject": "Shrubs",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Giraffe",
+    "subject": "Baobab",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Giraffe",
+    "subject": "Fig Tree",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Black Rhinoceros",
+    "subject": "Baobab",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Black Rhinoceros",
+    "subject": "Fig Tree",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Greater Kudu",
+    "subject": "Acacia",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Greater Kudu",
+    "subject": "Shrubs",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Greater Kudu",
+    "subject": "Baobab",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Greater Kudu",
+    "subject": "Fig Tree",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Lesser Kudu",
+    "subject": "Acacia",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Lesser Kudu",
+    "subject": "Shrubs",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Lesser Kudu",
+    "subject": "Baobab",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Lesser Kudu",
+    "subject": "Fig Tree",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Common Eland",
+    "subject": "Acacia",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Common Eland",
+    "subject": "Shrubs",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Common Eland",
+    "subject": "Baobab",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Common Eland",
+    "subject": "Fig Tree",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Sable Antelope",
+    "subject": "Acacia",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Sable Antelope",
+    "subject": "Shrubs",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Sable Antelope",
+    "subject": "Baobab",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Sable Antelope",
+    "subject": "Fig Tree",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Roan Antelope",
+    "subject": "Acacia",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Roan Antelope",
+    "subject": "Shrubs",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Roan Antelope",
+    "subject": "Baobab",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Roan Antelope",
+    "subject": "Fig Tree",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Bushbuck",
+    "subject": "Acacia",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Bushbuck",
+    "subject": "Shrubs",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Bushbuck",
+    "subject": "Baobab",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Bushbuck",
+    "subject": "Fig Tree",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Impala",
+    "subject": "Savanna Grass",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Impala",
+    "subject": "Shrubs",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Impala",
+    "subject": "Acacia",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Thomson's Gazelle",
+    "subject": "Savanna Grass",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Thomson's Gazelle",
+    "subject": "Shrubs",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Thomson's Gazelle",
+    "subject": "Acacia",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Grant's Gazelle",
+    "subject": "Savanna Grass",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Grant's Gazelle",
+    "subject": "Shrubs",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Grant's Gazelle",
+    "subject": "Acacia",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Springbok",
+    "subject": "Savanna Grass",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Springbok",
+    "subject": "Shrubs",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Springbok",
+    "subject": "Acacia",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Reedbuck",
+    "subject": "Savanna Grass",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Reedbuck",
+    "subject": "Shrubs",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Reedbuck",
+    "subject": "Acacia",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Steenbok",
+    "subject": "Savanna Grass",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Steenbok",
+    "subject": "Shrubs",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Steenbok",
+    "subject": "Acacia",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Klipspringer",
+    "subject": "Savanna Grass",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Klipspringer",
+    "subject": "Shrubs",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Klipspringer",
+    "subject": "Acacia",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Waterbuck",
+    "subject": "Savanna Grass",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Waterbuck",
+    "subject": "Shrubs",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Waterbuck",
+    "subject": "Acacia",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Rock Hyrax",
+    "subject": "Savanna Grass",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Rock Hyrax",
+    "subject": "Shrubs",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Rock Hyrax",
+    "subject": "Acacia",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Bush Hyrax",
+    "subject": "Savanna Grass",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Bush Hyrax",
+    "subject": "Shrubs",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Bush Hyrax",
+    "subject": "Acacia",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Springhare",
+    "subject": "Savanna Grass",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Springhare",
+    "subject": "Shrubs",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Springhare",
+    "subject": "Acacia",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Cape Hare",
+    "subject": "Savanna Grass",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Cape Hare",
+    "subject": "Shrubs",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Cape Hare",
+    "subject": "Acacia",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Scrub Hare",
+    "subject": "Savanna Grass",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Scrub Hare",
+    "subject": "Shrubs",
+    "relationship": "predation"
+  },
+  {
+    "agent": "Scrub Hare",
+    "subject": "Acacia",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Porcupine",
+    "subject": "Savanna Grass",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Porcupine",
+    "subject": "Shrubs",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African Porcupine",
+    "subject": "Acacia",
+    "relationship": "predation"
+  },
+  {
+    "agent": "African White-backed Vulture",
+    "subject": "African Elephant",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "African White-backed Vulture",
+    "subject": "White Rhinoceros",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "African White-backed Vulture",
+    "subject": "African Buffalo",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "African White-backed Vulture",
+    "subject": "Hippopotamus",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "African White-backed Vulture",
+    "subject": "Giraffe",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "African White-backed Vulture",
+    "subject": "Blue Wildebeest",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "African White-backed Vulture",
+    "subject": "Common Zebra",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "African White-backed Vulture",
+    "subject": "Common Eland",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "African White-backed Vulture",
+    "subject": "Sable Antelope",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "African White-backed Vulture",
+    "subject": "Roan Antelope",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "African White-backed Vulture",
+    "subject": "Oryx",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "African White-backed Vulture",
+    "subject": "Impala",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "African White-backed Vulture",
+    "subject": "Thomson's Gazelle",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "African White-backed Vulture",
+    "subject": "Grant's Gazelle",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "African White-backed Vulture",
+    "subject": "Waterbuck",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "African White-backed Vulture",
+    "subject": "Warthog",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "African White-backed Vulture",
+    "subject": "Topi",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "African White-backed Vulture",
+    "subject": "Hartebeest",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "African White-backed Vulture",
+    "subject": "Greater Kudu",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "African White-backed Vulture",
+    "subject": "Bushbuck",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Lappet-faced Vulture",
+    "subject": "African Elephant",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Lappet-faced Vulture",
+    "subject": "White Rhinoceros",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Lappet-faced Vulture",
+    "subject": "African Buffalo",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Lappet-faced Vulture",
+    "subject": "Hippopotamus",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Lappet-faced Vulture",
+    "subject": "Giraffe",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Lappet-faced Vulture",
+    "subject": "Blue Wildebeest",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Lappet-faced Vulture",
+    "subject": "Common Zebra",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Lappet-faced Vulture",
+    "subject": "Common Eland",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Lappet-faced Vulture",
+    "subject": "Sable Antelope",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Lappet-faced Vulture",
+    "subject": "Roan Antelope",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Lappet-faced Vulture",
+    "subject": "Oryx",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Lappet-faced Vulture",
+    "subject": "Impala",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Lappet-faced Vulture",
+    "subject": "Thomson's Gazelle",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Lappet-faced Vulture",
+    "subject": "Grant's Gazelle",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Lappet-faced Vulture",
+    "subject": "Waterbuck",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Lappet-faced Vulture",
+    "subject": "Warthog",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Lappet-faced Vulture",
+    "subject": "Topi",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Lappet-faced Vulture",
+    "subject": "Hartebeest",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Lappet-faced Vulture",
+    "subject": "Greater Kudu",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Lappet-faced Vulture",
+    "subject": "Bushbuck",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Hooded Vulture",
+    "subject": "Impala",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Hooded Vulture",
+    "subject": "Thomson's Gazelle",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Hooded Vulture",
+    "subject": "Grant's Gazelle",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Hooded Vulture",
+    "subject": "Waterbuck",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Hooded Vulture",
+    "subject": "Warthog",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Hooded Vulture",
+    "subject": "Topi",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Hooded Vulture",
+    "subject": "Hartebeest",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Hooded Vulture",
+    "subject": "Greater Kudu",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Hooded Vulture",
+    "subject": "Bushbuck",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Egyptian Vulture",
+    "subject": "Impala",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Egyptian Vulture",
+    "subject": "Thomson's Gazelle",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Egyptian Vulture",
+    "subject": "Grant's Gazelle",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Egyptian Vulture",
+    "subject": "Waterbuck",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Egyptian Vulture",
+    "subject": "Warthog",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Egyptian Vulture",
+    "subject": "Topi",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Egyptian Vulture",
+    "subject": "Hartebeest",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Egyptian Vulture",
+    "subject": "Greater Kudu",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Egyptian Vulture",
+    "subject": "Bushbuck",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Marabou Stork",
+    "subject": "Impala",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Marabou Stork",
+    "subject": "Thomson's Gazelle",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Marabou Stork",
+    "subject": "Grant's Gazelle",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Marabou Stork",
+    "subject": "Waterbuck",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Marabou Stork",
+    "subject": "Warthog",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Marabou Stork",
+    "subject": "Topi",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Marabou Stork",
+    "subject": "Hartebeest",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Marabou Stork",
+    "subject": "Greater Kudu",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Marabou Stork",
+    "subject": "Bushbuck",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Spotted Hyena",
+    "subject": "African Elephant",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Striped Hyena",
+    "subject": "African Elephant",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Brown Hyena",
+    "subject": "African Elephant",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Spotted Hyena",
+    "subject": "White Rhinoceros",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Striped Hyena",
+    "subject": "White Rhinoceros",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Brown Hyena",
+    "subject": "White Rhinoceros",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Spotted Hyena",
+    "subject": "African Buffalo",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Striped Hyena",
+    "subject": "African Buffalo",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Brown Hyena",
+    "subject": "African Buffalo",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Spotted Hyena",
+    "subject": "Hippopotamus",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Striped Hyena",
+    "subject": "Hippopotamus",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Brown Hyena",
+    "subject": "Hippopotamus",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Spotted Hyena",
+    "subject": "Giraffe",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Striped Hyena",
+    "subject": "Giraffe",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Brown Hyena",
+    "subject": "Giraffe",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Spotted Hyena",
+    "subject": "Blue Wildebeest",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Striped Hyena",
+    "subject": "Blue Wildebeest",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Brown Hyena",
+    "subject": "Blue Wildebeest",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Spotted Hyena",
+    "subject": "Common Zebra",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Striped Hyena",
+    "subject": "Common Zebra",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Brown Hyena",
+    "subject": "Common Zebra",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Spotted Hyena",
+    "subject": "Common Eland",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Striped Hyena",
+    "subject": "Common Eland",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Brown Hyena",
+    "subject": "Common Eland",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Spotted Hyena",
+    "subject": "Sable Antelope",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Striped Hyena",
+    "subject": "Sable Antelope",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Brown Hyena",
+    "subject": "Sable Antelope",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Spotted Hyena",
+    "subject": "Roan Antelope",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Striped Hyena",
+    "subject": "Roan Antelope",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Brown Hyena",
+    "subject": "Roan Antelope",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Spotted Hyena",
+    "subject": "Oryx",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Striped Hyena",
+    "subject": "Oryx",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Brown Hyena",
+    "subject": "Oryx",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Spotted Hyena",
+    "subject": "Impala",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Striped Hyena",
+    "subject": "Impala",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Brown Hyena",
+    "subject": "Impala",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Spotted Hyena",
+    "subject": "Thomson's Gazelle",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Striped Hyena",
+    "subject": "Thomson's Gazelle",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Brown Hyena",
+    "subject": "Thomson's Gazelle",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Spotted Hyena",
+    "subject": "Grant's Gazelle",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Striped Hyena",
+    "subject": "Grant's Gazelle",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Brown Hyena",
+    "subject": "Grant's Gazelle",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Spotted Hyena",
+    "subject": "Waterbuck",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Striped Hyena",
+    "subject": "Waterbuck",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Brown Hyena",
+    "subject": "Waterbuck",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Spotted Hyena",
+    "subject": "Warthog",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Striped Hyena",
+    "subject": "Warthog",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Brown Hyena",
+    "subject": "Warthog",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Spotted Hyena",
+    "subject": "Topi",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Striped Hyena",
+    "subject": "Topi",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Brown Hyena",
+    "subject": "Topi",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Spotted Hyena",
+    "subject": "Hartebeest",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Striped Hyena",
+    "subject": "Hartebeest",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Brown Hyena",
+    "subject": "Hartebeest",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Spotted Hyena",
+    "subject": "Greater Kudu",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Striped Hyena",
+    "subject": "Greater Kudu",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Brown Hyena",
+    "subject": "Greater Kudu",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Spotted Hyena",
+    "subject": "Bushbuck",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Striped Hyena",
+    "subject": "Bushbuck",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Brown Hyena",
+    "subject": "Bushbuck",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Black-backed Jackal",
+    "subject": "Impala",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Side-striped Jackal",
+    "subject": "Impala",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Black-backed Jackal",
+    "subject": "Thomson's Gazelle",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Side-striped Jackal",
+    "subject": "Thomson's Gazelle",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Black-backed Jackal",
+    "subject": "Grant's Gazelle",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Side-striped Jackal",
+    "subject": "Grant's Gazelle",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Black-backed Jackal",
+    "subject": "Waterbuck",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Side-striped Jackal",
+    "subject": "Waterbuck",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Black-backed Jackal",
+    "subject": "Warthog",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Side-striped Jackal",
+    "subject": "Warthog",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Black-backed Jackal",
+    "subject": "Topi",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Side-striped Jackal",
+    "subject": "Topi",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Black-backed Jackal",
+    "subject": "Hartebeest",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Side-striped Jackal",
+    "subject": "Hartebeest",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Black-backed Jackal",
+    "subject": "Greater Kudu",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Side-striped Jackal",
+    "subject": "Greater Kudu",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Black-backed Jackal",
+    "subject": "Bushbuck",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Side-striped Jackal",
+    "subject": "Bushbuck",
+    "relationship": "scavenging"
+  },
+  {
+    "agent": "Lion",
+    "subject": "Spotted Hyena",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Spotted Hyena",
+    "subject": "Lion",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Lion",
+    "subject": "Leopard",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Leopard",
+    "subject": "Lion",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Lion",
+    "subject": "Cheetah",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Cheetah",
+    "subject": "Lion",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Lion",
+    "subject": "African Wild Dog",
+    "relationship": "competition"
+  },
+  {
+    "agent": "African Wild Dog",
+    "subject": "Lion",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Lion",
+    "subject": "Nile Crocodile",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Nile Crocodile",
+    "subject": "Lion",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Leopard",
+    "subject": "Cheetah",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Cheetah",
+    "subject": "Leopard",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Leopard",
+    "subject": "African Wild Dog",
+    "relationship": "competition"
+  },
+  {
+    "agent": "African Wild Dog",
+    "subject": "Leopard",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Leopard",
+    "subject": "Spotted Hyena",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Spotted Hyena",
+    "subject": "Leopard",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Cheetah",
+    "subject": "African Wild Dog",
+    "relationship": "competition"
+  },
+  {
+    "agent": "African Wild Dog",
+    "subject": "Cheetah",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Cheetah",
+    "subject": "Spotted Hyena",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Spotted Hyena",
+    "subject": "Cheetah",
+    "relationship": "competition"
+  },
+  {
+    "agent": "African Wild Dog",
+    "subject": "Spotted Hyena",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Spotted Hyena",
+    "subject": "African Wild Dog",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Spotted Hyena",
+    "subject": "Striped Hyena",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Striped Hyena",
+    "subject": "Spotted Hyena",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Spotted Hyena",
+    "subject": "Brown Hyena",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Brown Hyena",
+    "subject": "Spotted Hyena",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Striped Hyena",
+    "subject": "Brown Hyena",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Brown Hyena",
+    "subject": "Striped Hyena",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Martial Eagle",
+    "subject": "Verreaux's Eagle",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Verreaux's Eagle",
+    "subject": "Martial Eagle",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Martial Eagle",
+    "subject": "African Hawk-Eagle",
+    "relationship": "competition"
+  },
+  {
+    "agent": "African Hawk-Eagle",
+    "subject": "Martial Eagle",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Verreaux's Eagle",
+    "subject": "African Hawk-Eagle",
+    "relationship": "competition"
+  },
+  {
+    "agent": "African Hawk-Eagle",
+    "subject": "Verreaux's Eagle",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Serval",
+    "subject": "Caracal",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Caracal",
+    "subject": "Serval",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Serval",
+    "subject": "African Wildcat",
+    "relationship": "competition"
+  },
+  {
+    "agent": "African Wildcat",
+    "subject": "Serval",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Caracal",
+    "subject": "African Wildcat",
+    "relationship": "competition"
+  },
+  {
+    "agent": "African Wildcat",
+    "subject": "Caracal",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Black-backed Jackal",
+    "subject": "Side-striped Jackal",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Side-striped Jackal",
+    "subject": "Black-backed Jackal",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Black-backed Jackal",
+    "subject": "Bat-eared Fox",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Bat-eared Fox",
+    "subject": "Black-backed Jackal",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Banded Mongoose",
+    "subject": "Dwarf Mongoose",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Dwarf Mongoose",
+    "subject": "Banded Mongoose",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Banded Mongoose",
+    "subject": "Slender Mongoose",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Slender Mongoose",
+    "subject": "Banded Mongoose",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Dwarf Mongoose",
+    "subject": "Slender Mongoose",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Slender Mongoose",
+    "subject": "Dwarf Mongoose",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Banded Mongoose",
+    "subject": "Meerkat",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Meerkat",
+    "subject": "Banded Mongoose",
+    "relationship": "competition"
+  },
+  {
+    "agent": "African Civet",
+    "subject": "Large-spotted Genet",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Large-spotted Genet",
+    "subject": "African Civet",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Nile Monitor",
+    "subject": "Rock Monitor",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Rock Monitor",
+    "subject": "Nile Monitor",
+    "relationship": "competition"
+  },
+  {
+    "agent": "African Rock Python",
+    "subject": "Nile Crocodile",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Nile Crocodile",
+    "subject": "African Rock Python",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Puff Adder",
+    "subject": "Black Mamba",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Black Mamba",
+    "subject": "Puff Adder",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Puff Adder",
+    "subject": "Boomslang",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Boomslang",
+    "subject": "Puff Adder",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Black Mamba",
+    "subject": "Boomslang",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Boomslang",
+    "subject": "Black Mamba",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Honey Badger",
+    "subject": "Serval",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Serval",
+    "subject": "Honey Badger",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Honey Badger",
+    "subject": "African Civet",
+    "relationship": "competition"
+  },
+  {
+    "agent": "African Civet",
+    "subject": "Honey Badger",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Common Zebra",
+    "subject": "Blue Wildebeest",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Blue Wildebeest",
+    "subject": "Common Zebra",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Common Zebra",
+    "subject": "Grevy's Zebra",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Grevy's Zebra",
+    "subject": "Common Zebra",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Blue Wildebeest",
+    "subject": "Black Wildebeest",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Black Wildebeest",
+    "subject": "Blue Wildebeest",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Blue Wildebeest",
+    "subject": "Topi",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Topi",
+    "subject": "Blue Wildebeest",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Blue Wildebeest",
+    "subject": "Hartebeest",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Hartebeest",
+    "subject": "Blue Wildebeest",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Thomson's Gazelle",
+    "subject": "Grant's Gazelle",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Grant's Gazelle",
+    "subject": "Thomson's Gazelle",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Thomson's Gazelle",
+    "subject": "Impala",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Impala",
+    "subject": "Thomson's Gazelle",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Thomson's Gazelle",
+    "subject": "Springbok",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Springbok",
+    "subject": "Thomson's Gazelle",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Grant's Gazelle",
+    "subject": "Impala",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Impala",
+    "subject": "Grant's Gazelle",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Grant's Gazelle",
+    "subject": "Springbok",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Springbok",
+    "subject": "Grant's Gazelle",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Impala",
+    "subject": "Springbok",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Springbok",
+    "subject": "Impala",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Impala",
+    "subject": "Reedbuck",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Reedbuck",
+    "subject": "Impala",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Impala",
+    "subject": "Steenbok",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Steenbok",
+    "subject": "Impala",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Greater Kudu",
+    "subject": "Lesser Kudu",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Lesser Kudu",
+    "subject": "Greater Kudu",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Greater Kudu",
+    "subject": "Common Eland",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Common Eland",
+    "subject": "Greater Kudu",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Sable Antelope",
+    "subject": "Roan Antelope",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Roan Antelope",
+    "subject": "Sable Antelope",
+    "relationship": "competition"
+  },
+  {
+    "agent": "White Rhinoceros",
+    "subject": "Black Rhinoceros",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Black Rhinoceros",
+    "subject": "White Rhinoceros",
+    "relationship": "competition"
+  },
+  {
+    "agent": "African Elephant",
+    "subject": "African Buffalo",
+    "relationship": "competition"
+  },
+  {
+    "agent": "African Buffalo",
+    "subject": "African Elephant",
+    "relationship": "competition"
+  },
+  {
+    "agent": "African Elephant",
+    "subject": "Hippopotamus",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Hippopotamus",
+    "subject": "African Elephant",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Warthog",
+    "subject": "Bushpig",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Bushpig",
+    "subject": "Warthog",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Cape Hare",
+    "subject": "Scrub Hare",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Scrub Hare",
+    "subject": "Cape Hare",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Rock Hyrax",
+    "subject": "Bush Hyrax",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Bush Hyrax",
+    "subject": "Rock Hyrax",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Olive Baboon",
+    "subject": "Chacma Baboon",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Chacma Baboon",
+    "subject": "Olive Baboon",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Olive Baboon",
+    "subject": "Vervet Monkey",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Vervet Monkey",
+    "subject": "Olive Baboon",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Vervet Monkey",
+    "subject": "Patas Monkey",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Patas Monkey",
+    "subject": "Vervet Monkey",
+    "relationship": "competition"
+  },
+  {
+    "agent": "African White-backed Vulture",
+    "subject": "Lappet-faced Vulture",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Lappet-faced Vulture",
+    "subject": "African White-backed Vulture",
+    "relationship": "competition"
+  },
+  {
+    "agent": "African White-backed Vulture",
+    "subject": "Hooded Vulture",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Hooded Vulture",
+    "subject": "African White-backed Vulture",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Lappet-faced Vulture",
+    "subject": "Hooded Vulture",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Hooded Vulture",
+    "subject": "Lappet-faced Vulture",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Hooded Vulture",
+    "subject": "Egyptian Vulture",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Egyptian Vulture",
+    "subject": "Hooded Vulture",
+    "relationship": "competition"
+  },
+  {
+    "agent": "African White-backed Vulture",
+    "subject": "Marabou Stork",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Marabou Stork",
+    "subject": "African White-backed Vulture",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Lappet-faced Vulture",
+    "subject": "Marabou Stork",
+    "relationship": "competition"
+  },
+  {
+    "agent": "Marabou Stork",
+    "subject": "Lappet-faced Vulture",
+    "relationship": "competition"
+  }
+]
