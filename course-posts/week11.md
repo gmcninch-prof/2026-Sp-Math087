@@ -10,12 +10,11 @@ This week we discuss Markov processes.
 - Notebooks for week 11
 
   - Eigenvalues and eigenvectors
-    [notebook](/course-content/week10-01--eigen.ipynb)
+    [notebook](/course-content/week11-01--eigen.ipynb)
 	[colab](https://colab.research.google.com/github/gmcninch-prof/2026-Sp-Math087/blob/main/course-content/week11-01--eigen.ipynb)  
 
-
   - Markov processes
-    [notebook](/course-content/week10-02--markov.ipynb)
+    [notebook](/course-content/week11-02--markov.ipynb)
 	[colab](https://colab.research.google.com/github/gmcninch-prof/week11-02--markov.ipynb)  
 
 
