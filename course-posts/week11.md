@@ -15,7 +15,7 @@ This week we discuss Markov processes.
 
   - Markov processes
     [notebook](/course-content/week11-02--markov.ipynb)
-	[colab](https://colab.research.google.com/github/gmcninch-prof/week11-02--markov.ipynb)  
+	[colab](https://colab.research.google.com/github/gmcninch-prof/2026-Sp-Math087/blob/main/course-content/week11-02--markov.ipynb)  
 
 
 - Midterm Report 2 is now available on gradescope. It is due Mar 29.
