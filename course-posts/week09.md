@@ -18,6 +18,6 @@ Processes.
 
   - financial market example
     [notebook](/course-content/week09-01--financial-market-example.ipynb)
-	[colab](https://colab.research.google.com/github/gmcninch-prof/week09-01--financial-market-example.ipynb)  
+	[colab](https://colab.research.google.com/github/gmcninch-prof/2026-Sp-Math087/blob/main/course-content/week09-01--financial-market-example.ipynb)  
 
 - ps07 is now posted on gradescope; it is due March 24 (the Tuesday after spring break).
