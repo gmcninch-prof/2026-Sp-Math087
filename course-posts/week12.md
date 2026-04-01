@@ -22,6 +22,12 @@ This week we begin discussion of Monte Carlo methods.
     [notebook](/course-content/week12-03--python-and-pandas-tools.ipynb)
 	[colab](https://colab.research.google.com/github/gmcninch-prof/2026-Sp-Math087/blob/main/course-content/week12-03--python-and-pandas-tools.ipynb)  
 
+  - statistics
+    [notebook](/course-content/week12-04--statistics.ipynb)
+	[colab](https://colab.research.google.com/github/gmcninch-prof/2026-Sp-Math087/blob/main/course-content/week12-04--statistics.ipynb)  
+
+
+
 
 - PS08 is now available on gradescope. It is due Sun Apr 5.
 
