@@ -98,20 +98,12 @@ title: Math087 - Mathematical Modelling - AY2025-2026 spring
   | 04/28 | Tue | Tufts      |              | 16   | **Academic Date:** *Reading Period*                            |
   | 04/29 | Wed | Tufts      |              | 16   | **Academic Date:** *Reading Period*                            |
   | 04/30 | Thu | Tufts      |              | 16   | **Academic Date:** *Reading Period*                            |
-  | 05/01 | Fri | Tufts      |              | 16   | **Academic Date:** *Reading Period*                            |
   | 05/01 | Fri | Tufts      |              | 16   | **Academic Date:** *Final Exam Period*                         |
   | 05/02 | Sat | Assignment |              | 16   | Final Project Due                                              |
-  | 05/02 | Sat | Tufts      |              | 16   | **Academic Date:** *Reading Period*                            |
   | 05/02 | Sat | Tufts      |              | 16   | **Academic Date:** *Final Exam Period*                         |
-  | 05/03 | Sun | Tufts      |              | 16   | **Academic Date:** *Reading Period*                            |
   | 05/03 | Sun | Tufts      |              | 16   | **Academic Date:** *Final Exam Period*                         |
-  | 05/04 | Mon | Tufts      |              | 17   | **Academic Date:** *Reading Period*                            |
   | 05/04 | Mon | Tufts      |              | 17   | **Academic Date:** *Final Exam Period*                         |
-  | 05/05 | Tue | Tufts      |              | 17   | **Academic Date:** *Reading Period*                            |
   | 05/05 | Tue | Tufts      |              | 17   | **Academic Date:** *Final Exam Period*                         |
-  | 05/06 | Wed | Tufts      |              | 17   | **Academic Date:** *Reading Period*                            |
   | 05/06 | Wed | Tufts      |              | 17   | **Academic Date:** *Final Exam Period*                         |
-  | 05/07 | Thu | Tufts      |              | 17   | **Academic Date:** *Reading Period*                            |
   | 05/07 | Thu | Tufts      |              | 17   | **Academic Date:** *Final Exam Period*                         |
-  | 05/08 | Fri | Tufts      |              | 17   | **Academic Date:** *Reading Period*                            |
   | 05/08 | Fri | Tufts      |              | 17   | **Academic Date:** *Final Exam Period*                         |
