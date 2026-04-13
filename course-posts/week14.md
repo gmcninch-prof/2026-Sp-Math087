@@ -11,7 +11,7 @@ I'll discuss least squares and curve fittinng
 
   - least squares
     [notebook](/course-content/week14-01--least-squares.ipynb)
-	[colab](https://colab.research.google.com/github/gmcninch-prof/2026-Sp-Math087/blob/main/course-content/week14-01--least-squares.ipynb
+	[colab](https://colab.research.google.com/github/gmcninch-prof/2026-Sp-Math087/blob/main/course-content/week14-01--least-squares.ipynb)
 
   - curve fitting
     [notebook](/course-content/week14-02--curve-fitting.ipynb)
