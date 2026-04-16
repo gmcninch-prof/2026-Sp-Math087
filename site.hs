@@ -37,6 +37,7 @@ main = hakyllWith config $ do
            .||. "course-content/*pdf"
            .||. "course-content/*py"
            .||. "course-content/*json"
+           .||. "course-content/*tex"
            .||. "course-assignments/**/*png") $ version "copy" $ do
         route   idRoute
         compile copyFileCompiler
